@@ -1,7 +1,7 @@
-#Easy basic herbs lists
+"Easy basic herbs lists"
 
 
-
+[
 {
     "patrol_id": "pln_med_rainygathering1",
     "biome": "plains",
@@ -5795,3 +5795,4 @@
             "r_c was scarred by frostbite from searching for herbs in leaf-bare."
     ]
 }
+]
