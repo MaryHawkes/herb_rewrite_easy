@@ -3,8 +3,8 @@
 
 [
 {
-    "patrol_id": "pln_med_rainygathering1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_rainygathering1",
+    "biome": "mountainous",
     "season": "Any",
     "tags": ["med_cat", "random_herbs", "many_herbs2", "big_change", "dislike", "respect"],
     "intro_text": "p_l leads a patrol out to explore c_n's territory and bring back any herbs they can spot. Their whiskers want to twitch with every raindrop that hits them, but the Clan doesn't have the luxury to sit inside away from the weather.",
@@ -29,8 +29,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun.",
@@ -55,8 +55,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun. p_l takes the time to test app1 on their knowledge of the leaves - soon these plants will flower and the purple blooms will identify them, but it's important to know them from leaf alone.",
@@ -81,8 +81,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun. p_l points out the plants to the warriors they brought with them, who just accept that this particular green shrub is different to all the other green shrubs.",
@@ -107,8 +107,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l wanders off into the territory, keeping an eye out for the purple flowers that betony grows.",
@@ -133,8 +133,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l wanders off into the territory, keeping an eye out for the purple flowers that betony grows. app1 leads the way, their tail up and waving jauntily.",
@@ -159,8 +159,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l wanders off into the territory leading a gathering patrol, keeping an eye out for the purple flowers that betony grows.",
@@ -185,8 +185,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them.",
@@ -211,8 +211,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them, bringing along app1 for a herbcraft lesson.",
@@ -237,8 +237,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringbetony_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringbetony_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them, bringing along a patrol to help them cart the leaves back to the herb stores.",
@@ -263,8 +263,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some.",
@@ -289,8 +289,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some, bringing app1 along.",
@@ -315,8 +315,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some, bringing along anyone who isn't busy with other work.",
@@ -341,8 +341,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks.",
@@ -367,8 +367,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
@@ -393,8 +393,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
@@ -419,8 +419,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage.",
@@ -445,8 +445,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage, bringing app1 along.",
@@ -471,8 +471,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage, bringing along anyone who isn't busy with other work.",
@@ -497,8 +497,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "blackberry", "med_cat"],
     "intro_text": "Hmm. p_l heads out, deciding that c_n needs more blackberry leaves in their stores.",
@@ -529,8 +529,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "med_cat", "herb", "blackberry", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Hmm. p_l heads out with app1, deciding that c_n needs more blackberry leaves in their stores.",
@@ -561,8 +561,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringblackberry_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringblackberry_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "blackberry", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Hmm. p_l heads out, deciding that c_n needs more blackberry leaves in their stores, bringing along anyone who isn't busy with other work.",
@@ -593,8 +593,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "burdock", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Worried about their stores of burdock and anticipating the plants' newleaf growth, p_l heads out to replenish the Clan's stocks.",
@@ -619,8 +619,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Worried about their stores of burdock and anticipating the plants' newleaf growth, p_l heads out to replenish the Clan's stocks, bringing app1 along.",
@@ -645,8 +645,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Worried about their stores of burdock and anticipating the plants' newleaf growth, p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
@@ -671,8 +671,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "burdock", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With the full sun of greenleaf fueling plant growth everywhere, it's the perfect time to hunt for burdock. p_l heads out to replenish the Clan's stocks.",
@@ -697,8 +697,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With the full sun of greenleaf fueling plant growth everywhere, it's the perfect time to hunt for burdock. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
@@ -723,8 +723,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With the full sun of greenleaf fueling plant growth everywhere, it's the perfect time to hunt for burdock. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
@@ -749,8 +749,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "burdock", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As leaf-fall starts to hint of the cold soon to come, the burdock plants are starting to wilt. p_l heads out to replenish the Clan's stocks.",
@@ -775,8 +775,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As leaf-fall starts to hint of the cold soon to come, the burdock plants are starting to wilt. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
@@ -801,8 +801,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As leaf-fall starts to hint of the cold soon to come, the burdock plants are starting to wilt. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
@@ -827,8 +827,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "burdock", "med_cat"],
     "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes their herb stores. They should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks.",
@@ -859,8 +859,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "burdock", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes their herb stores. They should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
@@ -891,8 +891,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringburdock_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringburdock_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "burdock", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes their herb stores. They should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
@@ -923,8 +923,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "catmint", "many_herbs2", "med_cat"],
     "intro_text": "p_l tests the air, trying to decide it it's warm enough to gather catmint yet. They'd reallly like to replenish the herb stocks after leaf-bare.",
@@ -949,8 +949,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "catmint", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l waits until they're out of camp to reveal to app1 that they're off to find catmint - a 'helpful' group of 'helpers' can be a little, well, unhelpful. Catmint is just too exciting for many of their Clanmates to keep their heads around.",
@@ -975,8 +975,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "catmint", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "jealousy", "dislike", "respect"],
     "intro_text": "As p_l looks at the twitching tails and wide eyes of the patrol set up to 'help' them gather catmint, their heart sinks. These overly excited warriors don't look like they're going to be useful, and p_l really needs to renew c_n's stocks of catmint as newleaf brings the plants back to life.",
@@ -1001,8 +1001,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "catmint", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out into the sunshine, padding away from camp in a search for one of the most elusive herbs.",
@@ -1027,8 +1027,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "catmint", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l waits until they're out of camp to reveal to app1 that they're off to find catmint - a 'helpful' group of 'helpers' can be a little, well, unhelpful. Catmint is just too exciting for many of their Clanmates to keep their heads around, and p_l wants to take advantage of the peak greenleaf growing season.",
@@ -1053,8 +1053,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "catmint", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "jealousy", "dislike", "respect"],
     "intro_text": "As p_l looks at the twitching tails and wide eyes of the patrol set up to 'help' them gather catmint, their heart sinks. These overly excited warriors don't look like they're going to be useful, and catmint is too important to be silly about collecting. Yes it smells wonderful. Please get over it.",
@@ -1079,8 +1079,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "catmint", "many_herbs2", "med_cat"],
     "intro_text": "They'd better take the opportunity to harvest while they can, p_l doesn't have much time left before many herbs will leave c_n's territory in the cold.",
@@ -1105,8 +1105,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "catmint", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l waits until they're out of camp to reveal to app1 that they're off to find catmint - a 'helpful' group of 'helpers' can be a little, well, unhelpful. Catmint is just too exciting for many of their Clanmates to keep their heads around, and they need to ensure c_n has stocks for the coming leaf-bare.",
@@ -1131,8 +1131,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcatmint_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcatmint_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "catmint", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "jealousy", "dislike", "respect"],
     "intro_text": "As p_l looks at the twitching tails and wide eyes of the patrol set up to 'help' them gather catmint, their heart sinks. These overly excited warriors don't look like they're going to be useful, and p_l only has so much time before the catmint dies off at the end of leaf-fall.",
@@ -1157,8 +1157,8 @@
     "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringcobwebs1",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringcobwebs1",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_only", "med_cat", "herb", "cobwebs", "many_herbs1"],
 "intro_text": "p_l heads out into the territory to stock up on cobwebs, something the Clan never seems to have enough of.",
@@ -1178,8 +1178,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringcobwebs2",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringcobwebs2",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_only", "med_cat", "respect", "trust", "apprentice", "herb", "cobwebs", "many_herbs1"],
 "intro_text": "p_l heads out into the territory with app1 to stock up on cobwebs and teach the apprentice how to gather one of the Clan's most vital medical tools.",
@@ -1199,8 +1199,8 @@
 "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringcobwebs3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcobwebs3",
+    "biome": "mountainous",
     "season": "Any",
     "tags": ["med_cat", "warrior", "herb", "cobwebs", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "c_n can never have enough cobwebs, p_l instructs their team, leading them out to search for them.",
@@ -1225,8 +1225,233 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringcobwebs4",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "two_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "It makes app1 laugh, muffled through their own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
+            "Murrping with laughter, app1 clacks the stick they hold in their own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices muffled purrs and laughs."
+    ],
+    "fail_text": [
+            "p_l decides they should be above such childish antics."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 2,
+    "max_cats": 2,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs5",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "three_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "app3 ignores it, but it makes p_l laugh, muffled through their own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
+            "Murrping with laughter, p_l clacks the stick they hold in their own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the apprentices muffled purrs and laughs, though app3 seems solely focused on the chore, content to let the others muck about so long as everything gets done."
+    ],
+    "fail_text": [
+            "p_l decides they should be above such childish antics."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 3,
+    "max_cats": 3,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs6",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "three_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "It's a long, weird, hard day. Yes, they find cobwebs, yes, they bring them back to camp, but by StarClan none of the warrior apprentices was expecting cobweb gathering to be so hard, not when it feels like they run into one every other hunt. They end up with a new appreciation for p_l's skills.",
+            "However, once out of camp, the apprentices realise they're out of their depth and turn to p_l for help. They're very gracious about it, not making anyone feel stupid, and back the time the patrol reutrns with a successful haul there's a new feeling of rappot between everyone, regardless of what role they're studying."
+    ],
+    "fail_text": [
+            "p_l is disgusted with the general disdain they feel from the other apprentices, and how hypocrital it is to tell them herb gathering is easy when the patrol HASN'T FOUND ANY COBWEBS. They stalk back to the medicine cat den in a huff."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 3,
+    "max_cats": 3,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs7",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "four_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "The other apprentices ignore it, but it makes p_l laugh, muffled through their own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
+            "Murrping with laughter, ap_l clacks the stick they hold in their own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the two's muffled purrs and laughs, though the other apprentices seems solely focused on the chore, content to let the others muck about so long as everything gets done."
+    ],
+    "fail_text": [
+            "p_l decides they should be above such childish antics."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 4,
+    "max_cats": 4,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs8",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "four_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "It's a long, weird, hard day. Yes, they find cobwebs, yes, they bring them back to camp, but by StarClan none of the warrior apprentices was expecting cobweb gathering to be so hard, not when it feels like they run into one every other hunt. They end up with a new appreciation for p_l's skills.",
+            "However, once out of camp, the apprentices realise they're out of their depth and turn to p_l for help. They're very gracious about it, not making anyone feel stupid, and back the time the patrol reutrns with a successful haul there's a new feeling of rappot between everyone, regardless of what role they're studying."
+    ],
+    "fail_text": [
+            "p_l is disgusted with the general disdain they feel from the other apprentices, and how hypocrital it is to tell them herb gathering is easy when the patrol HASN'T FOUND ANY COBWEBS. They stalk back to the medicine cat den in a huff."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 4,
+    "max_cats": 4,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs9",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "five_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "The other apprentices ignore it, but it makes p_l laugh, muffled through their own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
+            "Murrping with laughter, ap_l clacks the stick they hold in their own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the two's muffled purrs and laughs, though the other apprentices seems solely focused on the chore, content to let the others muck about so long as everything gets done."
+    ],
+    "fail_text": [
+            "p_l decides they should be above such childish antics."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 5,
+    "max_cats": 5,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs10",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "five_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "It's a long, weird, hard day. Yes, they find cobwebs, yes, they bring them back to camp, but by StarClan none of the warrior apprentices was expecting cobweb gathering to be so hard, not when it feels like they run into one every other hunt. They end up with a new appreciation for p_l's skills.",
+            "However, once out of camp, the apprentices realise they're out of their depth and turn to p_l for help. They're very gracious about it, not making anyone feel stupid, and back the time the patrol reutrns with a successful haul there's a new feeling of rappot between everyone, regardless of what role they're studying."
+    ],
+    "fail_text": [
+            "p_l is disgusted with the general disdain they feel from the other apprentices, and how hypocrital it is to tell them herb gathering is easy when the patrol HASN'T FOUND ANY COBWEBS. They stalk back to the medicine cat den in a huff."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 5,
+    "max_cats": 5,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs11",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "six_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "The other apprentices ignore it, but it makes p_l laugh, muffled through their own cobweb gathering stick. It's good to have a friend around for the boring bits of the day, app2 seems to lighten up every situation.",
+            "Murrping with laughter, ap_l clacks the stick they hold in their own mouth against app2's. The stick bashing continues as they collect cobwebs, and the afternoon is filled with the two's muffled purrs and laughs, though the other apprentices seems solely focused on the chore, content to let the others muck about so long as everything gets done."
+    ],
+    "fail_text": [
+            "p_l decides they should be above such childish antics."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 6,
+    "max_cats": 6,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringcobwebs12",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "cobwebs", "apprentice", "six_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "It's a long, weird, hard day. Yes, they find cobwebs, yes, they bring them back to camp, but by StarClan none of the warrior apprentices was expecting cobweb gathering to be so hard, not when it feels like they run into one every other hunt. They end up with a new appreciation for p_l's skills.",
+            "However, once out of camp, the apprentices realise they're out of their depth and turn to p_l for help. They're very gracious about it, not making anyone feel stupid, and back the time the patrol reutrns with a successful haul there's a new feeling of rappot between everyone, regardless of what role they're studying."
+    ],
+    "fail_text": [
+            "p_l is disgusted with the general disdain they feel from the other apprentices, and how hypocrital it is to tell them herb gathering is easy when the patrol HASN'T FOUND ANY COBWEBS. They stalk back to the medicine cat den in a huff."
+    ],
+    "win_skills": ["keen eye"],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 6,
+    "max_cats": 6,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringdaisy_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "daisy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With the snows of leaf-bare nearly vanished as newleaf wins its place in the seasonal cycle, p_l heads out to gather daisy leaves.",
@@ -1251,8 +1476,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With the snows of leaf-bare nearly vanished as newleaf wins its place in the seasonal cycle, p_l heads out to gather daisy leaves, bringing app1 along for a lesson.",
@@ -1277,8 +1502,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With the snows of leaf-bare nearly vanished as newleaf wins its place in the seasonal cycle, p_l heads out to gather daisy leaves. They assemble a little group of warriors to help them carry the herbs.",
@@ -1303,8 +1528,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "daisy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The heat of greenleaf brings warmth to their pelt as p_l wanders, aimlessly searching for daisies to harvest their leaves.",
@@ -1329,8 +1554,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The heat of greenleaf brings warmth to their pelt as p_l wanders, aimlessly searching for daisies to harvest their leaves, bringing app1 along for a lesson.",
@@ -1355,8 +1580,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The heat of greenleaf brings warmth to their pelt as p_l wanders, aimlessly searching for daisies to harvest their leaves. They assemble a little group of warriors to help them carry the herbs.",
@@ -1381,8 +1606,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "daisy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "There's still time this leaf-fall to store away a good harvest of dried-but-potent daisy leaves, in case c_n's elders need it for their joints or cats need to unexpectedly travel.",
@@ -1407,8 +1632,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "There's still time this leaf-fall to store away a good harvest of dried-but-potent daisy leaves, in case c_n's elders need it for their joints or cats need to unexpectedly travel. p_l brings app1 along for a lesson.",
@@ -1433,8 +1658,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "daisy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "There's still time this leaf-fall to store away a good harvest of dried-but-potent daisy leaves, in case c_n's elders need it for their joints or cats need to unexpectedly travel. p_l assembles a little group of warriors to help them carry the herbs.",
@@ -1459,8 +1684,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "daisy", "med_cat"],
     "intro_text": "In the leaf-bare snow, the chances of finding any useable daisies seem slim. p_l hesitates - should they even try to look?",
@@ -1491,8 +1716,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "daisy", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "In the leaf-bare snow, the chances of finding any useable daisies seem slim. p_l hesitates - should they even try to look? And is bringing app1 a good idea?",
@@ -1523,8 +1748,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringdaisy_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdaisy_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "daisy", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "In the leaf-bare snow, the chances of finding any useable daisies seem slim. p_l hesitates - should they even try to look?",
@@ -1555,8 +1780,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them.",
@@ -1581,8 +1806,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
@@ -1607,8 +1832,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
@@ -1633,8 +1858,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. ",
@@ -1659,8 +1884,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble.  p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
@@ -1685,8 +1910,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
@@ -1711,8 +1936,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season.",
@@ -1737,8 +1962,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
@@ -1763,8 +1988,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
@@ -1789,8 +2014,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "dandelion", "med_cat"],
     "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap.",
@@ -1821,8 +2046,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "dandelion", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. Time for app1 to learn about the resources that're still available to gather during leaf-bare.",
@@ -1853,8 +2078,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringdandelion_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringdandelion_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "dandelion", "big_change", "no_leader", "platonic", "dislike", "respect"],
     "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. They bring along a patrol of shivering Clanmates - more paws will make light work of digging through the snow.",
@@ -1885,8 +2110,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringelder_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today.",
@@ -1914,8 +2139,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
@@ -1943,8 +2168,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them.",
@@ -1972,8 +2197,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today.",
@@ -2001,8 +2226,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
@@ -2030,8 +2255,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them.",
@@ -2059,8 +2284,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today.",
@@ -2088,8 +2313,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
@@ -2117,8 +2342,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringelder_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringelder_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them.",
@@ -2146,8 +2371,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores.",
@@ -2172,8 +2397,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores with app1.",
@@ -2198,8 +2423,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores with a patrol of their Clanmates to assist them.",
@@ -2224,8 +2449,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh goldenrod for the stores.",
@@ -2250,8 +2475,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh goldenrod for the stores with app1.",
@@ -2276,8 +2501,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh goldenrod for the stores with a patrol of their Clanmates to assist them.",
@@ -2302,8 +2527,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh goldenrod for the stores.",
@@ -2328,8 +2553,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh goldenrod for the stores with app1.",
@@ -2354,8 +2579,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringgoldenrod_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringgoldenrod_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh goldenrod for the stores with a patrol of their Clanmates to assist them.",
@@ -2380,8 +2605,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringhorsetail1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringhorsetail1",
+    "biome": "mountainous",
     "season": "Any",
     "tags": ["med_only", "herb", "horsetail", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out on a herb-gathering patrol, searching for the evergreen, ever-reliable horsetail to harvest for the herb stores.",
@@ -2406,8 +2631,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringhorsetail2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringhorsetail2",
+    "biome": "mountainous",
     "season": "Any",
     "tags": ["med_only", "med_cat", "herb", "horsetail", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l heads out on a herb-gathering patrol, searching for the evergreen, ever-reliable horsetail to harvest for the herb stores. app1 trots after them, asking them why horsetail grows so weirdly without leaves.",
@@ -2432,8 +2657,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringhorsetail3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringhorsetail3",
+    "biome": "mountainous",
     "season": "Any",
     "tags": ["med_cat", "warrior", "herb", "horsetail", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Bringing a motley assortment of Clanmates along with them, p_l heads out on a herb-gathering patrol, searching for the evergreen, ever-reliable horsetail to harvest for the herb stores.",
@@ -2458,8 +2683,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "juniper", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With newleaf having won against the snows of leaf-bare, it's far safer to go gather juniper needles from the trees.",
@@ -2484,8 +2709,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With newleaf having won against the snows of leaf-bare, it's far safer to go gather juniper needles from the trees. p_l heads out, promising app1 they'll enjoy learning about this herb.",
@@ -2510,8 +2735,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "With newleaf having won against the snows of leaf-bare, it's far safer to go gather juniper needles from the trees. p_l heads out with a gathering patrol, promising the warriors that they can pick up a few needles for the dens of the camp to help freshen them up, so long as they gather enough for the herb stores first.",
@@ -2536,8 +2761,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "juniper", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out to find a juniper tree, wanting to restock on its needles.",
@@ -2562,8 +2787,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l heads out to find a juniper tree, wanting to restock on its needles. It's also a good opportunity for app1 to learn more about the plant.",
@@ -2588,8 +2813,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "p_l heads out to find a juniper tree, wanting to restock on its needles. Some of their Clanmates volunteer to come with them, hoping to keep a few pleasantly smelling needles for scenting their own nests, though they'll have to be careful about placing them so the needles don't spike anyone.",
@@ -2614,8 +2839,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "juniper", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l sniffs the clean fresh morning air, wondering if they can smell juniper berries on the breeze.",
@@ -2640,8 +2865,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l sniffs the clean fresh morning air, wondering if they can smell juniper berries on the breeze. They bring app1 to investigate.",
@@ -2666,8 +2891,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "juniper", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "p_l sniffs the clean fresh morning air, wondering if they can smell juniper berries on the breeze. They assemble a patrol to investigate.",
@@ -2692,8 +2917,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "blunt_force_injury", "scar", "herb", "juniper", "med_cat"],
     "intro_text": "It's not finding fresh juniper that's the problem. An everygreen plant, they reliably grow through the cold - but they're large shrubs, sometimes large enough to be trees, and climbing in these slippery conditions might be dangerous.",
@@ -2724,8 +2949,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "blunt_force_injury", "scar", "herb", "juniper", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "It's not finding fresh juniper that's the problem. An everygreen plant, they reliably grow through the cold - but they're large shrubs, sometimes large enough to be trees, and climbing in these slippery conditions might be dangerous. p_l has a lot of hesitancy about bringing app1 along under these conditions.",
@@ -2756,8 +2981,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringjuniper_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringjuniper_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "blunt_force_injury", "scar", "herb", "juniper", "big_change", "no_leader", "platonic", "dislike", "respect"],
     "intro_text": "It's not finding fresh juniper that's the problem. An everygreen plant, they reliably grow through the cold - but they're large shrubs, sometimes large enough to be trees, and climbing in these slippery conditions might be dangerous. Hopefully the warriors accompanying p_l will be able to help.",
@@ -2788,8 +3013,8 @@
     ]
 },
 {
-"patrol_id": "pln_med_gatheringlungwort1",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort1",
+"biome": "mountainous",
 "season": "newleaf",
 "tags": ["med_cat", "apprentice", "med_only", "herb", "lungwort", "comfort", "respect", "trust", "dislike"],
 "intro_text": "p_l and app1 head out for lungwort, with p_l starting a lesson on the value of this rare herb for treating yellowcough.",
@@ -2820,8 +3045,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort2",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort2",
+"biome": "mountainous",
 "season": "newleaf",
 "tags": [
     "med_cat",
@@ -2866,8 +3091,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort3",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort3",
+"biome": "mountainous",
 "season": "newleaf",
 "tags": [
     "med_cat",
@@ -2913,8 +3138,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort4",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort4",
+"biome": "mountainous",
 "season": "greenleaf",
 "tags": [
     "med_cat",
@@ -2959,8 +3184,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort5",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort5",
+"biome": "mountainous",
 "season": "greenleaf",
 "tags": ["med_cat", "herb", "lungwort", "no_app", "clan_to_patrol", "respect", "injury", "sore"],
 "intro_text": "p_l is on a mission to find lungwort now that greenleaf is here. As the only reliable cure for yellowcough, they're determined that c_n stock up on it.",
@@ -2998,8 +3223,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort6",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort6",
+"biome": "mountainous",
 "season": "greenleaf",
 "tags": [
     "med_cat",
@@ -3044,8 +3269,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort7",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort7",
+"biome": "mountainous",
 "season": "leaf-fall",
 "tags": [
     "med_cat",
@@ -3090,8 +3315,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort8",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort8",
+"biome": "mountainous",
 "season": "leaf-fall",
 "tags": [
     "med_cat",
@@ -3136,8 +3361,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringlungwort9",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringlungwort9",
+"biome": "mountainous",
 "season": "leaf-fall",
 "tags": [
     "med_cat",
@@ -3182,8 +3407,8 @@
 "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "mallow", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh mallow for the stores.",
@@ -3208,8 +3433,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh mallow for the stores with app1.",
@@ -3234,8 +3459,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh mallow for the stores with a patrol of their Clanmates to assist them.",
@@ -3260,8 +3485,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "mallow", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh mallow for the stores.",
@@ -3286,8 +3511,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh mallow for the stores with app1.",
@@ -3312,8 +3537,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh mallow for the stores with a patrol of their Clanmates to assist them.",
@@ -3338,8 +3563,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "mallow", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh mallow for the stores.",
@@ -3364,8 +3589,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh mallow for the stores with app1.",
@@ -3390,8 +3615,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmallow_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmallow_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "mallow", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh mallow for the stores with a patrol of their Clanmates to assist them.",
@@ -3416,8 +3641,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "marigold", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where marigold might be growing this year.",
@@ -3442,8 +3667,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where marigold might be growing this year with app1.",
@@ -3468,8 +3693,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where marigold might be growing this year, with a patrol of their Clanmates to assist them.",
@@ -3494,8 +3719,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "marigold", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "More marigold would be useful, particularly with greenleaf in full swing. The season will bring the marigold to bloom, and the flowers are both just as useful as the leaves to p_l and extremely easy to spot from a distance.",
@@ -3520,8 +3745,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "More marigold would be useful, particularly with greenleaf in full swing. The season will bring the marigold to bloom, and the flowers are both just as useful as the leaves to p_l and extremely easy to spot from a distance with app1.",
@@ -3546,8 +3771,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "More marigold would be useful, particularly with greenleaf in full swing. The season will bring the marigold to bloom, and the flowers are both just as useful as the leaves to p_l and extremely easy to spot from a distance with a patrol of their Clanmates to assist them.",
@@ -3572,8 +3797,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "marigold", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh marigold for the stores before the plants wither and die off.",
@@ -3598,8 +3823,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh marigold for the stores  with app1 before the plants wither and die off.",
@@ -3624,8 +3849,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmarigold_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmarigold_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "marigold", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "Leaf-fall holds the last chances to stock up on herbs that will die off in leaf-bare, and p_l heads out to gather fresh marigold for the stores with a patrol of their Clanmates to assist them before the plants wither and die off.",
@@ -3651,7 +3876,7 @@
 },
 {
 "patrol_id": "gen_med_gatheringmoss1",
-"biome": "plains",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "moss", "herb"],
 "intro_text": "p_l notices that the moss in the medicine den is getting old. They need to go and gather some more.",
@@ -3666,14 +3891,12 @@
 ],
 "min_cats": 1,
 "max_cats": 1,
-"win_skills": null,
-"win_trait": ["None"],
 "antagonize_text": null,
 "antagonize_fail_text": null
 },
 {
 "patrol_id": "gen_med_gatheringmoss2",
-"biome": "plains",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "apprentice", "med_only", "herb", "moss", "big_change", "platonic", "dislike"],
 "intro_text": "p_l notices that the moss in the medicine den is getting old. They need to go and gather some more.",
@@ -3688,14 +3911,12 @@
 ],
 "min_cats": 2,
 "max_cats": 2,
-"win_skills": null,
-"win_trait": ["None"],
 "antagonize_text": null,
 "antagonize_fail_text": null
 },
 {
 "patrol_id": "gen_med_gatheringmoss3",
-"biome": "plains",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "warrior", "herb", "moss", "big_change", "platonic", "dislike"],
 "intro_text": "p_l notices that the moss in the medicine den is getting old. They need to go and gather some more.",
@@ -3710,14 +3931,12 @@
 ],
 "min_cats": 2,
 "max_cats": 2,
-"win_skills": null,
-"win_trait": ["None"],
 "antagonize_text": null,
 "antagonize_fail_text": null
 },
 {
 "patrol_id": "gen_med_gatheringmoss4",
-"biome": "plains",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "warrior", "herb", "moss", "big_change", "platonic"],
 "intro_text": "p_l notices that the moss in the medicine den is getting old. They need to go and gather some more.",
@@ -3732,14 +3951,228 @@
 ],
 "min_cats": 3,
 "max_cats": 6,
-"win_skills": null,
-"win_trait": ["None"],
 "antagonize_text": null,
 "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmoss5",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "two_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "p_l comes up to meet app2, apologising about app2 being sent to help p_l collect moss.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "No worries! app2 bumps p_l's shoulder affectionately, brushing past them as they leave camp. It's a fine way to spent the afternoon, and a cool cat to spend it with!",
+            "app2 seems kinda irritated about it at first, but as p_l keeps chatting to them they warm up, and both apprentices feel much more comfortable with each other by the time they bring their moss loot back to camp."
+    ],
+    "fail_text": [
+            "app2 shrugs. It's fine, it's totally not like they'd prefer to be hunting, doing something actually useful."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 2,
+    "max_cats": 2,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss6",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "three_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "Though the other of their group don't look thrilled, app2 says no worries! They bump p_l's shoulder affectionately, brushing past them as they leave camp. It's a fine way to spent the afternoon, and a cool cat to spend it with!",
+        "Out of the cats in the group, app2 seems kinda irritated about it at first, but as p_l keeps chatting to them they warm up, and both apprentices feel much more comfortable with each other by the time they bring their moss loot back to camp."
+    ],
+    "fail_text": [
+        "The other apprentices shrug. It's fine, it's totally not like they'd prefer to be hunting, doing something actually useful."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 3,
+    "max_cats": 3,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss7",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "three_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices are sent off into the territory to gather moss, for the medicine cat den.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+            "While it's a traditional chore for apprentices, it's not a particularly interesting one. Still, sometimes it isn't what you're doing, but who you're doing it with, and though there's a little bit of complaining all the apprentices enjoy the chance to hang out together.",
+            "p_l is determined to prove themselves to the other apprentices! But fortunately they don't push it too far, avoiding bossing everyone around and instead encouraging the patrol it their duties. Are they a little stiff? Sure, but not unlikeable."
+    ],
+    "fail_text": [
+            "app1 and app2 start to argue, ruining everyone's day."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 3,
+    "max_cats": 3,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss8",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "four_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "Though the other of their group don't look thrilled, app2 says no worries! They bump p_l's shoulder affectionately, brushing past them as they leave camp. It's a fine way to spent the afternoon, and a cool cat to spend it with!",
+        "Out of the cats in the group, app2 seems kinda irritated about it at first, but as p_l keeps chatting to them they warm up, and both apprentices feel much more comfortable with each other by the time they bring their moss loot back to camp."
+    ],
+    "fail_text": [
+        "The other apprentices shrug. It's fine, it's totally not like they'd prefer to be hunting, doing something actually useful."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 4,
+    "max_cats": 4,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss9",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "four_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "While it's a traditional chore for apprentices, it's not a particularly interesting one. Still, sometimes it isn't what you're doing, but who you're doing it with, and though there's a little bit of complaining all the apprentices enjoy the chance to hang out together.",
+        "p_l is determined to prove themselves to the other apprentices! But fortunately they don't push it too far, avoiding bossing everyone around and instead encouraging the patrol it their duties. Are they a little stiff? Sure, but not unlikeable."
+],
+"fail_text": [
+        "app1 and app2 start to argue, ruining everyone's day."
+],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 4,
+    "max_cats": 4,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss10",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "five_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "Though the other of their group don't look thrilled, app2 says no worries! They bump p_l's shoulder affectionately, brushing past them as they leave camp. It's a fine way to spent the afternoon, and a cool cat to spend it with!",
+        "Out of the cats in the group, app2 seems kinda irritated about it at first, but as p_l keeps chatting to them they warm up, and both apprentices feel much more comfortable with each other by the time they bring their moss loot back to camp."
+    ],
+    "fail_text": [
+        "The other apprentices shrug. It's fine, it's totally not like they'd prefer to be hunting, doing something actually useful."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 5,
+    "max_cats": 5,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss11",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "five_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "While it's a traditional chore for apprentices, it's not a particularly interesting one. Still, sometimes it isn't what you're doing, but who you're doing it with, and though there's a little bit of complaining all the apprentices enjoy the chance to hang out together.",
+        "p_l is determined to prove themselves to the other apprentices! But fortunately they don't push it too far, avoiding bossing everyone around and instead encouraging the patrol it their duties. Are they a little stiff? Sure, but not unlikeable."
+],
+"fail_text": [
+        "app1 and app2 start to argue, ruining everyone's day."
+],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 5,
+    "max_cats": 5,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss12",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "six_apprentices", "many_herbs1", "p_l_to_r_c", "big_change", "platonic", "dislike", "respect", "romantic"],
+    "intro_text": "As the apprentices head out to collect cobwebs, app2 screws up their face into a stupid expression around the stick they hold in their mouth.",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "Though the other of their group don't look thrilled, app2 says no worries! They bump p_l's shoulder affectionately, brushing past them as they leave camp. It's a fine way to spent the afternoon, and a cool cat to spend it with!",
+        "Out of the cats in the group, app2 seems kinda irritated about it at first, but as p_l keeps chatting to them they warm up, and both apprentices feel much more comfortable with each other by the time they bring their moss loot back to camp."
+    ],
+    "fail_text": [
+        "The other apprentices shrug. It's fine, it's totally not like they'd prefer to be hunting, doing something actually useful."
+    ],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 6,
+    "max_cats": 6,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmoss13",
+    "biome": "mountainous",
+    "season": "Any",
+    "tags": ["med_cat", "herb", "moss", "apprentice", "six_apprentices", "many_herbs1", "big_change", "platonic", "dislike", "respect"],
+    "intro_text": "The apprentices head out into the territory, following p_l a little dubiously. Gathering things can't possibly be as hard as hunting them, plants don't run away!",
+    "decline_text": "They're called back to camp, needed for other chores.",
+    "chance_of_success": 70,
+    "exp": 20,
+    "success_text": [
+        "While it's a traditional chore for apprentices, it's not a particularly interesting one. Still, sometimes it isn't what you're doing, but who you're doing it with, and though there's a little bit of complaining all the apprentices enjoy the chance to hang out together.",
+        "p_l is determined to prove themselves to the other apprentices! But fortunately they don't push it too far, avoiding bossing everyone around and instead encouraging the patrol it their duties. Are they a little stiff? Sure, but not unlikeable."
+],
+"fail_text": [
+        "app1 and app2 start to argue, ruining everyone's day."
+],
+    "win_trait": ["None"],
+    "fail_skills": ["None"],
+    "fail_trait": ["None"],
+    "min_cats": 6,
+    "max_cats": 6,
+    "antagonize_text": null,
+    "antagonize_fail_text": null
+},
+{
+    "patrol_id": "mtn_med_gatheringmullein_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where mullein might be growing this year.",
@@ -3764,8 +4197,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where mullein might be growing this year with app1.",
@@ -3790,8 +4223,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With newleaf comes the opportunity to scout out c_n's territory and find where mullein might be growing this year, with a patrol of their Clanmates to assist them.",
@@ -3816,8 +4249,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the mullein starts to tower over the other plants, it's a good time to harvest it.",
@@ -3842,8 +4275,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the mullein starts to tower over the other plants, it's a good time to harvest it. p_l explains to app1 how mullein's height make it easy to spot from a distance.",
@@ -3868,8 +4301,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the mullein starts to tower over the other plants, it's a good time to harvest it.",
@@ -3894,8 +4327,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the mullein towers impressively over the other plants, it's a good time to harvest it.",
@@ -3920,8 +4353,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the mullein towers impressively over the other plants, it's a good time to harvest it. p_l explains to app1 how mullein's height make it easy to spot from a distance.",
@@ -3946,8 +4379,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringmullein_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringmullein_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the mullein towers impressively over the other plants, it's a good time to harvest it.",
@@ -3972,8 +4405,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the branches of the oak trees start to green, p_l heads out to collect its leaves.",
@@ -3998,8 +4431,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the branches of the oak trees start to green, p_l brings app1 to collect its leaves.",
@@ -4024,8 +4457,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the branches of the oak trees start to green, p_l heads out to collect its leaves with their Clanmates coming along. Many paws will make light work, after all.",
@@ -4050,8 +4483,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Greenleaf encourages the oak to reach its full potential, wide and towering, and p_l goes to collect a harvest of its leaves.",
@@ -4076,8 +4509,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Greenleaf encourages the oak to reach its full potential, wide and towering, and p_l goes to collect a harvest of its leaves with app1.",
@@ -4102,8 +4535,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Greenleaf encourages the oak to reach its full potential, wide and towering, and p_l goes to collect a harvest of its leaves, taking a patrol with them to make the task easier.",
@@ -4128,8 +4561,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the oaks are washed with brilliant colour, p_l heads out on a patrol to gather their last green leaves.",
@@ -4154,8 +4587,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the oaks are washed with brilliant colour, p_l heads out on a patrol to gather their last green leaves, explaining to app1 how the leaves lose their herbal potency with the reds of leaf-fall.",
@@ -4180,8 +4613,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringoakleaves_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringoakleaves_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "oak_leaves", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the oaks are washed with brilliant colour, p_l heads out on a gathering patrol with warriors to gather their last green leaves.",
@@ -4206,8 +4639,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves.",
@@ -4232,8 +4665,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves. app1 asks to come along!",
@@ -4258,8 +4691,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves with a gathering patrol.",
@@ -4284,8 +4717,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home.",
@@ -4310,8 +4743,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home. app1 asks why the plant might choose such a strange spot to grow, and p_l gives them their best guess.",
@@ -4336,8 +4769,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home. p_l brings along their Clanmates, both for carrying and because the deputy has mentioned particular paths they'd really like cleared.",
@@ -4362,8 +4795,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall.",
@@ -4388,8 +4821,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall. app1 asks if they'll really die back in leaf-bare - the plant seems too determined to give up in the cold.",
@@ -4414,8 +4847,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringplantain_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringplantain_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall. The warriors they're bringing along seem to regard their task as more path clearing and less herb gathering.",
@@ -4440,8 +4873,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "poppy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the poppy starts to bloom and set seed in newleaf, p_l jumps at the opportunity.",
@@ -4466,8 +4899,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "poppy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the poppy starts to bloom and set seed in newleaf, p_l jumps at the opportunity, explaining to app1 that they have to take advantage of its short growing season while they can.",
@@ -4492,8 +4925,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "poppy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the poppy starts to bloom and set seed in newleaf, p_l jumps at the opportunity. They assemble a good sized patrol full of Clanmates to help them out with the gathering of this important herb.",
@@ -4518,8 +4951,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "poppy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With greenleaf bringing the poppies to seed, and only so much time before the plants die off in leaf-fall, p_l is keen to go collect as much as possible.",
@@ -4544,8 +4977,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "poppy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With greenleaf bringing the poppies to seed, and only so much time before the plants die off in leaf-fall, p_l is keen to go collect as much as possible. Even app1 knows how much the Clan depends on poppy seeds being in their herb stores.",
@@ -4570,8 +5003,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringpoppy_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringpoppy_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "poppy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With greenleaf bringing the poppies to seed, and only so much time before the plants die off in leaf-fall, p_l is keen to go collect as much as possible. They bring their Clanmates with them to help, the warriors keen to make sure the Clan is well provisioned with this important herb.",
@@ -4596,8 +5029,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "ragwort", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With newleaf bringing ragwort back on the medicinal menu, p_l heads out to find where the silly plants have decided to sprout this year.",
@@ -4622,8 +5055,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With newleaf bringing ragwort back on the medicinal menu, p_l heads out to find where the silly plants have decided to sprout this year. They explain to app1 the annoyances of the type of plant that dies completely in leaf-bare, leaving them having to search for all new spots every newleaf.",
@@ -4648,8 +5081,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With newleaf bringing ragwort back on the medicinal menu, p_l heads out to find where the silly plants have decided to sprout this year. They describe ragwort to the warrior with them, though they'd be surprised if anyone manages to spot it.",
@@ -4674,8 +5107,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "ragwort", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out to find ragwort, holding the particular fractal shape of its furled leaves in their mind to distinguish it from every other low growing patch of greenery.",
@@ -4700,8 +5133,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l heads out to find ragwort, holding the particular fractal shape of its furled leaves in their mind to distinguish it from every other low growing patch of greenery, and doing their best to describe the shape to app1.",
@@ -4726,8 +5159,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l heads out to find ragwort, holding the particular fractal shape of its furled leaves in their mind to distinguish it from every other low growing patch of greenery. They bring warriors with them to carry it back to camp.",
@@ -4752,8 +5185,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "ragwort", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the ragwort plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them.",
@@ -4778,8 +5211,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the ragwort plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them, bringing along app1 for a herbcraft lesson.",
@@ -4804,8 +5237,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringragwort_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringragwort_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "ragwort", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the ragwort plants start to dramatically give up on life as leaf-fall progresses, p_l takes the oportunity to go harvest from them, bringing along a patrol to help them cart the leaves back to the herb stores.",
@@ -4830,8 +5263,8 @@
     "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringraspberrysolo1",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringraspberrysolo1",
+"biome": "mountainous",
 "season": "greenleaf",
 "tags": ["herb", "raspberry", "no_herbs1", "no_herbs2", "med_cat", "injury", "poisoned"],
 "intro_text": "While gathering herbs, r_c spots a bush of red berries.",
@@ -4859,8 +5292,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringraspberrysolo2",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringraspberrysolo2",
+"biome": "mountainous",
 "season": "greenleaf",
 "tags": ["herb", "raspberry", "no_herbs1", "med_cat", "apprentice", "injury", "poisoned", "death"],
 "intro_text": "While gathering herbs, app1 stumbles upon a bush of red berries.",
@@ -4887,8 +5320,8 @@
 ]
 },
 {
-"patrol_id": "pln_med_gatheringraspberrysolo3",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringraspberrysolo3",
+"biome": "mountainous",
 "season": "leaf-fall",
 "tags": ["herb", "raspberry", "no_herbs1", "no_herbs2", "med_cat", "poisoned", "injury"],
 "intro_text": "While gathering herbs, r_c spots a bush of red berries.",
@@ -4916,8 +5349,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringraspberrysolo4",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringraspberrysolo4",
+"biome": "mountainous",
 "season": "leaf-fall",
 "tags": ["herb", "raspberry", "no_herbs1", "med_cat", "apprentice", "injury", "poisoned", "death"],
 "intro_text": "While gathering herbs, app1 stumbles upon a bush of red berries.",
@@ -4948,8 +5381,8 @@
 ]
 },
 {
-"patrol_id": "pln_med_gatheringrosemary1",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringrosemary1",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "apprentice", "herb", "rosemary", "comfort", "trust", "no_change_fail", "injury", "thorn in their paw", "med_only"],
 "intro_text": "p_l has to attend to one of their grimmer jobs as a medicine cat. The grounds where c_n goes to mourn their dead need to be tended. They're bringing along app1 as their assistant for this trip.",
@@ -4973,8 +5406,8 @@
 "antagonize_fail_text": null
 },
 {
-"patrol_id": "pln_med_gatheringrosemary2",
-"biome": "plains",
+"patrol_id": "mtn_med_gatheringrosemary2",
+"biome": "mountainous",
 "season": "Any",
 "tags": ["med_cat", "warrior", "herb", "rosemary", "comfort", "trust", "no_change_fail", "injury", "thorn in their paw"],
 "intro_text": "p_l has to attend to one of their grimmer jobs as a medicine cat. The grounds where c_n goes to mourn their dead need to be tended. They're bringing along r_c as their assistant for this trip.",
@@ -4998,8 +5431,8 @@
 "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "tansy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As newleaf brings green to c_n's lands, p_l goes out in a search for tansy. It can be reassuring to be the only cat gathering the sometimes dangerous herb.",
@@ -5024,8 +5457,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As newleaf brings green to c_n's lands, p_l goes out in a search for tansy. They bring app1 with them for an important lesson on its use.",
@@ -5050,8 +5483,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As newleaf brings green to c_n's lands, p_l goes out in a search for tansy. There shouldn't be any problem collecting it with other cats - these warriors are all strong and healthy.",
@@ -5076,8 +5509,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "tansy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out to find tansy, scenting the air for its sharp smell, eyes on the lookout for tansy's strange yellow flower orbs that greenleaf has brought out in abundance.",
@@ -5102,8 +5535,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l heads out to find tansy with app1. They instruct app1 to scenting the air for its sharp smell and keep their eyes on the lookout for tansy's strange yellow flower orbs that greenleaf has brought out in abundance.",
@@ -5128,8 +5561,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l heads out to find tansy, scenting the air for its sharp smell, eyes on the lookout for tansy's strange yellow flower orbs that greenleaf has brought out in abundance. They've brought some of their Clanmates with them to hopefully help them carry a good harvest home.",
@@ -5154,8 +5587,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "tansy", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the tansy plants fight on though leaf-fall to fit in as much life as possible before leaf-bare, p_l goes out to harvest them.",
@@ -5180,8 +5613,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the tansy plants fight on though leaf-fall to fit in as much life as possible before leaf-bare, p_l goes out to harvest them with app1, bringing the apprentice for an important herbcraft lesson.",
@@ -5206,8 +5639,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringtansy_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringtansy_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "tansy", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the tansy plants fight on though leaf-fall to fit in as much life as possible before leaf-bare, p_l goes out to harvest them with a gathering patrol.",
@@ -5232,8 +5665,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "thyme", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "With the newleaf sun hidden behind cloudy drizzle, it's a damp day to find thyme.",
@@ -5258,8 +5691,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "With the newleaf sun hidden behind cloudy drizzle, it's a damp day to find thyme. p_l lets app1 take the lead, testing their knowledge.",
@@ -5284,8 +5717,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "With the newleaf sun hidden behind cloudy drizzle, it's a damp day to find thyme, and the gathering patrol would rather have this over with quickly.",
@@ -5310,8 +5743,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "thyme", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l has finally put enough time aside to go search for thyme.",
@@ -5336,8 +5769,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l has finally put enough time aside to go search for thyme with app1.",
@@ -5362,8 +5795,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l has finally put enough time aside to go search for thyme with a gathering patrol.",
@@ -5388,8 +5821,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "thyme", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The thyme plants are running out of growing time - p_l better go harvest them before leaf-fall is over.",
@@ -5414,8 +5847,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The thyme plants are running out of growing time - p_l better take app1 to harvest them before leaf-fall is over.",
@@ -5440,8 +5873,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringthyme_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringthyme_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "thyme", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "The thyme plants are running out of growing time - p_l better go harvest them before leaf-fall is over, bringing a patrol with them to help.",
@@ -5466,8 +5899,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_newleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_newleaf1",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l uses the blustery newleaf morning to try catch the scent of wild garlic on the breeze.",
@@ -5492,8 +5925,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_newleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_newleaf2",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l uses the blustery newleaf morning to try catch the scent of wild garlic on the breeze, encouraging app1 to try the technique.",
@@ -5518,8 +5951,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_newleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_newleaf3",
+    "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l uses the blustery newleaf morning to try catch the scent of wild garlic on the breeze, a patrol of warriors assisting them.",
@@ -5544,8 +5977,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_greenleaf1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_greenleaf1",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l heads out on what promises to be a fragrant patrol, searching for wild garlic.",
@@ -5570,8 +6003,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_greenleaf2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_greenleaf2",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l heads out on what promises to be a fragrant patrol, searching for wild garlic with app1.",
@@ -5596,8 +6029,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_greenleaf3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_greenleaf3",
+    "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l heads out on what promises to be a fragrant patrol, searching for wild garlic with a gathering patrol.",
@@ -5622,8 +6055,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-fall1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-fall1",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "In the crisp cool air of a leaf-fall morning, it should be easy to find wild garlic by scent.",
@@ -5648,8 +6081,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-fall2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-fall2",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "In the crisp cool air of a leaf-fall morning, it should be easy to find wild garlic by scent. p_l brings along app1, to see if they can do it.",
@@ -5674,8 +6107,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-fall3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-fall3",
+    "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "In the crisp cool air of a leaf-fall morning, it should be easy to find wild garlic by scent. p_l leads a gathering patrol to do just that.",
@@ -5700,8 +6133,8 @@
     "antagonize_fail_text": null
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-bare1",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-bare1",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if they can only remember where the wild garlic grew in greenleaf it's theirs for the taking.",
@@ -5732,8 +6165,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-bare2",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-bare2",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if they or app1 can only remember where the wild garlic grew in greenleaf it's theirs for the taking.",
@@ -5764,8 +6197,8 @@
     ]
 },
 {
-    "patrol_id": "pln_med_gatheringwildgarlic_leaf-bare3",
-    "biome": "plains",
+    "patrol_id": "mtn_med_gatheringwildgarlic_leaf-bare3",
+    "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "wild_garlic", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, even with a patrol helping them, but if they can only remember where the wild garlic grew in greenleaf it's theirs for the taking.",
