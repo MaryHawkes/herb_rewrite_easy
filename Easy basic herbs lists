@@ -32,15 +32,15 @@
     "patrol_id": "mtn_med_gatheringbetony_newleaf1",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun. It's the perfect time to harvest them, and p_l is glad for the sun on their pelt after the long winter.",
     "decline_text": "They have second thoughts about leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "While they haven't yet grown their flowers, the betony has no shortage of leaves for p_l to harvest.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they bring back a great haul of betony for the herb stores."
+        "While they haven't yet grown their flowers, the betony has no shortage of leaves for p_l to harvest. There's even a little goldenrod to pick up, half-hidden under the enthusiastic betony plant.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -58,15 +58,15 @@
     "patrol_id": "mtn_med_gatheringbetony_newleaf2",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun. p_l takes the time to test app1 on their knowledge of the leaves - soon these plants will flower and the purple blooms will identify them, but it's important to know them from leaf alone.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-        "While they haven't yet grown their flowers, the betony has no shortage of leaves to harvest, and app1 carefully studies them.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections. app1 is more interested in how betony prevents gross runny dirt.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores."
+        "While they haven't yet grown their flowers, the betony has no shortage of leaves to harvest, and app1 carefully studies them. There's even a little goldenrod to pick up, half-hidden under the enthusiastic betony plant.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it! app1 is more interested in how betony prevents gross runny dirt.",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -84,15 +84,15 @@
     "patrol_id": "mtn_med_gatheringbetony_newleaf3",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The betony plants stretch outwards, racing to take advantage of the newleaf sun. p_l points out the plants to the warriors they brought with them, who just accept that this particular green shrub is different to all the other green shrubs.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "While they haven't yet grown their flowers, the betony has no shortage of leaves for p_l's patrol to harvest.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores."
+        "While they haven't yet grown their flowers, the betony has no shortage of leaves for p_l's patrol to harvest. There's even a little goldenrod to pick up, half-hidden under the enthusiastic betony plant.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -110,15 +110,15 @@
     "patrol_id": "mtn_med_gatheringbetony_greenleaf1",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l wanders off into the territory, keeping an eye out for the purple flowers that betony grows.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l follows their industrious example as they gather.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants, and they bring back a great haul of betony for the herb stores."
+        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l follows their industrious example as they gather. They prune back enough betony to find a surprisingly intact goldenrod plant hidden under it, also ready for harvest.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants, and they bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "...Wait. Have they passed the betony already? p_l doubles back, and while they find a shrub that looks a lot like betony, it's surrounded by suspicious hoofprints and devoid of flowers. Without the blooms, p_l isn't confident in their identification, and returns to camp with nothing to show for their long trek."
@@ -136,15 +136,15 @@
     "patrol_id": "mtn_med_gatheringbetony_greenleaf2",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l wanders off into the territory, keeping an eye out for the purple flowers that betony grows. app1 leads the way, their tail up and waving jauntily.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l directs app1 to follow their industrious example as they gather.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections. app1 is more interested in how betony prevents gross runny dirt.",
-        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores."
+        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l directs app1 to follow their industrious example as they gather. They prune back enough betony to find a surprisingly intact goldenrod plant hidden under it, also ready for harvest.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it! app1 is more interested in how betony prevents gross runny dirt.",
+        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "...Wait. Have they passed the betony already? p_l doubles back, and while they find a shrub that looks a lot like betony, it's surrounded by suspicious hoofprints and devoid of flowers. Without the blooms, p_l isn't confident in their identification, and returns to camp with nothing to show for their long trek."
@@ -162,15 +162,15 @@
     "patrol_id": "mtn_med_gatheringbetony_greenleaf3",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "p_l wanders off into the territory leading a gathering patrol, keeping an eye out for the purple flowers that betony grows.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l directs their patrol to follow their industrious example as they gather.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores."
+        "The betony shrubs are in full bloom, with bees buzzing busily around them, and p_l directs their patrol to follow their industrious example as they gather. They prune back enough betony to find a surprisingly intact goldenrod plant hidden under it, also ready for harvest.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily spot the purple blossoms among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
     ],
     "fail_text": [
         "...Wait. Have they passed the betony already? p_l doubles back, and while they find a shrub that looks a lot like betony, it's surrounded by suspicious hoofprints and devoid of flowers. Without the blooms, p_l isn't confident in their identification, and returns to camp with nothing to show for their long trek."
@@ -188,15 +188,15 @@
     "patrol_id": "mtn_med_gatheringbetony_leaf-fall1",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "herb", "betony", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the opportunity to go harvest from them.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l gathers their leaves.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores."
+        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l gathers their leaves. One of the plants is having a polite disagreement with a goldenrod bush about who gets the space in the sun, giving p_l two prey with one blow.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -214,15 +214,15 @@
     "patrol_id": "mtn_med_gatheringbetony_leaf-fall2",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "med_cat", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the opportunity to go harvest from them, bringing along app1 for a herbcraft lesson.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l and app1 gather their leaves.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections. app1 is more interested in how betony prevents gross runny dirt.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores."
+        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l and app1 gather their leaves. One of the plants is having a polite disagreement with a goldenrod bush about who gets the space in the sun, giving p_l two prey with one blow.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it! app1 is more interested in how betony prevents gross runny dirt.",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants. They point it out to app1 and the two cats bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
 ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -240,15 +240,15 @@
     "patrol_id": "mtn_med_gatheringbetony_leaf-fall3",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_cat", "warrior", "herb", "betony", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "betony", "goldenrod", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "As the betony plants start to dramatically give up on life as leaf-fall progresses, p_l takes the opportunity to go harvest from them, bringing along a patrol to help them cart the leaves back to the herb stores.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l's patrol gathers their leaves.",
-        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections.",
-        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores."
+        "The betony plants are determined to enjoy the last of the sun's warmth, reaching up cheerfully to the sky as p_l's patrol gathers their leaves. One of the plants is having a polite disagreement with a goldenrod bush about who gets the space in the sun, giving p_l two prey with one blow.",
+        "Betony is especially useful for cats who breathe with a rasp, and p_l is always keen to help Clanmates with the condition. With the great haul of betony p_l's patrol brings back, they'll be able to dose their Clanmates and prevent coughs and chest infections - and they've even found a little goldenrod to go with it!",
+        "s_c is able to find the sought-after herb quickly, as they can easily pick out the shape of its leaves among the other plants, and they organise the patrol to bring back a great haul of betony for the herb stores. They're even able to pick out a goldenrod bush on their path home."
     ],
     "fail_text": [
         "Hang on. Has p_l identified the betony correctly? It's difficult to tell without the distinctive purple blossoms. They're not sure, and not willing to risk it."
@@ -266,15 +266,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_newleaf1",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-        "Sure enough, all along the trailing branches of the blackberry brambles, new leaves are poking towards the sun. p_l carefully plucks them off, not taking too many - they want this plant to supply the Clan in future moons too.",
-        "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future.",
-        "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles."
+        "Sure enough, all along the trailing branches of the brambles, new leaves are poking towards the sun. This early in the season it's hard to differentiate between blackberry and raspberry plants, but either would be useful. p_l carefully plucks them off, not taking too many - they want this plant to supply the Clan in future moons too.",
+        "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby.",
+        "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry."
 ],
     "fail_text": [
         "p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -292,15 +292,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_newleaf2",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some, bringing app1 along.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Sure enough, all along the trailing branches of the blackberry brambles, new leaves are poking towards the sun. p_l carefully plucks them off, not taking too many - they want this plant to supply the Clan in future moons too. app1 hasn't considered plant pruning as a medicine cat skill before now, and they have a good conversation about why it's important.",
-            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
+            "Sure enough, all along the trailing branches of the brambles, new leaves are poking towards the sun. This early in the season it's hard to differentiate between blackberry and raspberry plants, but either would be useful. p_l doesn't take too many, they want this plant to supply the Clan in future moons too. They have a good conversation with app1 about about why harvesting conservatively is important.",
+            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
+            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
 ],
     "fail_text": [
             "With app1 following them, p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -318,15 +318,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_newleaf3",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Newleaf should bring new leaves on the blackberry brambles. p_l heads out to collect some, bringing along anyone who isn't busy with other work.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-           "Sure enough, all along the trailing branches of the blackberry brambles, new leaves are poking towards the sun. p_l carefully plucks them off, not taking too many - they want this plant to supply the Clan in future moons too. The rest of the patrol listens to them describe how a medicine cat must predict the Clan's future need, respect for p_l growing.",
-           "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine, as they organise the blackberry leaves, and p_l smiles appreciatively.",
-           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
+           "Sure enough, all along the trailing branches of the brambles, new leaves are poking towards the sun. This early in the season it's hard to differentiate between blackberry and raspberry plants, but either would be useful. p_l doesn't take too many, and the rest of the patrol listens to them describe how a medicine cat must predict the Clan's future need, respect for p_l growing.",
+           "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby. Their Clanmates send p_l away for a nap in the sunshine as they organise the blackberry leaves, and p_l smiles appreciatively.",
+           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
     ],
     "fail_text": [
             "p_l manages to avoid a torn pelt only by the grace of StarClan, and isn't going to risk sending anyone else into the brambles with them having so many thorns at the moment. They'll have to try a different blackberry bush on another day."
@@ -344,15 +344,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_greenleaf1",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, picking large bunches to take home.",
-            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Setting the leaves out to dry before they're put away in the herb stores, p_l purrs at the sight of their harvest.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles."
+            "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, finding some raspberry too and picking large bunches to take home.",
+            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby. Setting the leaves out to dry before they're put away in the herb stores, p_l purrs at the sight of their harvest.",
+            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry."
 ],
     "fail_text": [
             "p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -370,15 +370,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_greenleaf2",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, picking large bunches to take home. app1 hasn't considered plant pruning as a medicine cat skill before now, and they have a good conversation about why it's important.",
-            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
+            "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, finding some raspberry too and picking large bunches to take home. app1 hasn't considered plant pruning as a medicine cat skill before now, and they have a good conversation about why it's important.",
+            "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
+            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
 ],
     "fail_text": [
             "With app1 following them, p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -396,15 +396,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_greenleaf3",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The blackberry brambles will be at their peak leaf growth soon, if they aren't there already. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-           "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, picking large bunches to take home. It's a long afternoon, but a productive, light-hearted one, filled with smiles and jokes as the obligingly cats follow p_l's direction to cart everything home.",
-           "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine, as they organise the blackberry leaves, and p_l smiles appreciatively.",
-           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
+           "At this time of year, the blackberries have grown enough leaves to completely shade the ground under their brambles. p_l harvests without worry, finding some raspberry too and picking large bunches to take home. It's a long afternoon, but a productive, light-hearted one, filled with smiles and jokes as the obligingly cats follow p_l's direction to cart everything home.",
+           "Perfect - there's a good crop of blackberry leaves just waiting for them, and the bramble is starting a war with a temptingly harvestable raspberry bramble nearby. Their Clanmates send p_l away for a nap in the sunshine as they organise the blackberry leaves, and p_l smiles appreciatively.",
+           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
     ],
     "fail_text": [
             "p_l manages to avoid a torn pelt only by the grace of StarClan, and isn't going to risk sending anyone else into the brambles with them having so many thorns at the moment. They'll have to try a different blackberry bush on another day."
@@ -422,15 +422,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-fall1",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "herb", "blackberry", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Careful now. p_l finds the blackberry bramble, utterly coated in berries. This is the season for blackberry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future.",
+            "Careful now. p_l finds the blackberry and raspberry brambles aplenty, utterly coated in berries. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future.",
             "Perfect - there's a good crop of blackberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Setting the leaves out to dry before they're put away in the herb stores, p_l purrs at the sight of their harvest.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles."
+            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry."
 ],
     "fail_text": [
             "p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -448,15 +448,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-fall2",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "med_cat", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage, bringing app1 along.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Careful now. p_l finds the blackberry bramble, utterly coated in berries. This is the season for blackberry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l teaches app1.",
+            "Careful now. p_l finds the blackberry and raspberry brambles aplenty, utterly coated in berries. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l teaches app1.",
             "Perfect - there's a good crop of blackberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
+            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
 ],
     "fail_text": [
             "With app1 following them, p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
@@ -474,15 +474,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-fall3",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_cat", "warrior", "herb", "blackberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As leaf-fall arrives the blackberry plants burst into fruit and p_l heads out to take advantage, bringing along anyone who isn't busy with other work.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-           "Careful now. p_l finds the blackberry bramble, utterly coated in berries. This is the season for blackberry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l explains to the warriors.",
+           "Careful now. p_l finds the blackberry and raspberry brambles aplenty, utterly coated in berries. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l explains to the warriors.",
            "Perfect - there's a good crop of blackberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine as they organise the berries and p_l smiles appreciatively.",
-           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the blackberry brambles. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
+           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both blackberry and raspberry. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
     ],
     "fail_text": [
             "p_l manages to avoid a torn pelt only by the grace of StarClan, and isn't going to risk sending anyone else into the brambles with them having so many thorns at the moment. They'll have to try a different blackberry bush on another day."
@@ -500,15 +500,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-bare1",
     "biome": "mountainous",
     "season": "leaf-bare",
-    "tags": ["med_only", "cold_injury", "scar", "herb", "blackberry", "med_cat"],
+    "tags": ["med_only", "cold_injury", "scar", "herb", "blackberry", "raspberry", "med_cat"],
     "intro_text": "Hmm. p_l heads out, deciding that c_n needs more blackberry leaves in their stores.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "While blackberries don't lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can.",
-            "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from the blackberry plant.",
-            "s_c spots a sheltered corner that has protected a branch of blackberry from the cold, and expertly manuveres in there to pluck the leaves for c_n."
+            "While neither blackberry nor raspberry, whose brambles look similar, lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can.",
+            "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from a tangle bramble of blackberry and raspberry.",
+            "s_c spots a sheltered corner that has protected a pocket of brambles of blackberry and raspberry from the cold, and expertly manuveres in there to pluck the leaves for c_n."
 ],
     "fail_text": [
             "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. They note with growing concern that leaf-bare might have killed the plant.",
@@ -532,15 +532,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-bare2",
     "biome": "mountainous",
     "season": "leaf-bare",
-    "tags": ["med_only", "cold_injury", "scar", "med_cat", "herb", "blackberry", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "cold_injury", "scar", "med_cat", "herb", "blackberry", "raspberry", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "Hmm. p_l heads out with app1, deciding that c_n needs more blackberry leaves in their stores.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 40,
     "exp": 30,
     "success_text": [
-            "While blackberries don't lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can. It's a great help having app1 with them.",
-            "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from the blackberry plant. app1 holds their breath, hoping their mentor comes down unscathed.",
-            "s_c spots a sheltered corner that has protected a branch of blackberry from the cold, and expertly manuveres in there to pluck the leaves for c_n. They leave app1 outside, not wanting to risk their apprentice in the snow and thorns."
+            "While neither blackberry nor raspberry, whose brambles look similar, lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can. It's a great help having app1 with them.",
+            "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from a tangle bramble of blackberry and raspberry. app1 holds their breath, hoping their mentor comes down unscathed.",
+            "s_c spots a sheltered corner that has protected a pocket of brambles of blackberry and raspberry from the cold, and expertly manuveres in there to pluck the leaves for c_n. They leave app1 outside, not wanting to risk their apprentice in the snow and thorns."
 ],
     "fail_text": [
             "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. They note with growing concern that leaf-bare might have killed the plant.",
@@ -564,15 +564,15 @@
     "patrol_id": "mtn_med_gatheringblackberry_leaf-bare3",
     "biome": "mountainous",
     "season": "leaf-bare",
-    "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "blackberry", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "blackberry", "raspberry", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "Hmm. p_l heads out, deciding that c_n needs more blackberry leaves in their stores, bringing along anyone who isn't busy with other work.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "While blackberries don't lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can. The patrol sees their stress, and gathers around to support them.",
-           "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from the blackberry plant. The rest of the patrol gingerly follow their lead, and together they manage as decent a harvest as anyone can expect from leaf-bare.",
-            "s_c spots a sheltered corner that has protected a branch of blackberry from the cold, and expertly manuveres in there to pluck the leaves for c_n. They pass them out to the members of the patrol from within the thicket, and their entourage ensures that p_l is able to bring a huge quantity of fresh blackberry leaves home."
+            "While neither blackberry nor raspberry, whose brambles look similar, lose their leaves completely, leaf-bare is hard on any plant, and p_l has to balance the plant's needs, the Clan's and their own frozen paws as they try to gather what leaves they can. The patrol sees their stress, and gathers around to support them.",
+           "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still living leaves from a tangle bramble of blackberry and raspberry. The rest of the patrol gingerly follow their lead, and together they manage as decent a harvest as anyone can expect from leaf-bare.",
+            "s_c spots a sheltered corner that has protected a pocket of brambles of blackberry and raspberry from the cold, and expertly manuveres in there to pluck the leaves for c_n. They pass them out to the members of the patrol from within the thicket, and their entourage ensures that p_l is able to bring a huge quantity of fresh blackberry leaves home."
     ],
     "fail_text": [
             "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. They note with growing concern that leaf-bare might have killed the plant. They'll have to try a different blackberry bush on another day.",
