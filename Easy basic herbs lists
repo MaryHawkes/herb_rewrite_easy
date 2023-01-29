@@ -17,7 +17,7 @@
         "The sharp eyed s_c spots herbs quickly, and the cats harvest them and retreat back to the dry camp, not lingering for a second more than they need to."
     ],
     "fail_text": [
-        "p_l knows the conditions are miserable, but their group is even more insufferable, and not only do they have to put up with these cats for an entire afternoon, there's also nothing to show for it."
+        "p_l knows the conditions are miserable, but their group is even more insufferable. Not only do they have to put up with these cats for an entire afternoon, there's also nothing to show for it."
     ],
     "win_skills": ["keen eye"],
     "win_trait": ["None"],
@@ -602,7 +602,7 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The strenthening newleaf sun has tempted fat burdock leaves to start to sprout, and it's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult!",
+            "The strengthening newleaf sun has tempted fat burdock leaves to start to sprout, and it's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult!",
             "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Laying the fat roots out in a towering but neat pile in the herb stores makes p_l thrum with a contented purr.",
             "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot."
 ],
@@ -622,15 +622,15 @@
     "patrol_id": "mtn_med_gatheringburdock_newleaf2",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "med_cat", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice", "plantain"],
     "intro_text": "Worried about their stores of burdock and anticipating the plants' newleaf growth, p_l heads out to replenish the Clan's stocks, bringing app1 along.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The strenthening newleaf sun has tempted fat burdock leaves to start to sprout, and it's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult! app1 actually topples over at one point, although p_l pretends they didn't see, hiding their smiles.",
-            "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Laying the fat roots out in a towering but neat pile in the herb stores makes p_l thrum with a contented purr, as does seeing how hard app1 is working to learn herbcraft.",
-            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot. app1 asks them about it, and p_l replies with an explanation of how the distinctive size and shape of burdock leaves helps to quickly identify them from a distance."
+            "The strengthening newleaf sun has tempted fat burdock leaves to start to sprout, and it's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult! On the way back, app1 spots some plantain leaves, and p_l chuckles to themself softly as the apprentice attempts to fit the leaves and roots into their jaws to carry back.",
+            "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Digging the roots out is a bit more difficult, but they manage a good haul. On the walk back, app1 waves their tail excitedly as they spot a patch of plantain near the path. p_l praises their herb-finding skills as they stop to gather some of the leaves.",
+            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot. They're leading the way back when they also spot some plantain growing nearby. With a purr, they make sure to gather some of that as well, since it's good for all sorts of stings."
 ],
     "fail_text": [
             "Maybe they're coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and it feels like a wasted afternoon. They avoid snapping at app1, who seems unable to identify the common herb, but it's a near thing."
@@ -648,15 +648,15 @@
     "patrol_id": "mtn_med_gatheringburdock_newleaf3",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_cat", "warrior", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "burdock", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect", "plantain"],
     "intro_text": "Worried about their stores of burdock and anticipating the plants' newleaf growth, p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-           "The strenthening newleaf sun has tempted fat burdock leaves to start to sprout, and it's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult! It's a long afternoon, but a productive, light-hearted one, filled with smiles and jokes as the obliging cats follow p_l's direction to cart everything home.",
-           "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Laying the fat roots out in a towering but neat pile in the herb stores makes p_l thrum with a contented purr, and their Clanmates smile, obligingly helping out their hard-working medicine cat.",
-            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot. Their team follows them, ready to pitch in and provide the muscle needed to bring back an excellent harvest."
+           "The strengthening newleaf sun has tempted fat burdock leaves to start to sprout. It's a long afternoon, but a productive, light-hearted one, filled with smiles and jokes as the obliging cats follow p_l's direction to cart everything home. p_l is amused to find some plantain leaves in the mix as they're sorting later.",
+           "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Laying the fat roots out in a towering but neat pile in the herb stores makes p_l thrum with a contented purr, and their Clanmates smile, obligingly helping out their hard-working medicine cat. p_l is amused to find some plantain leaves among the roots, as well.",
+            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot. Their team follows them, ready to pitch in and provide the muscle needed to bring back an excellent harvest. On the way home, p_l spots some plantain growing close to the path and directs a warrior to grab some of that, as well."
     ],
     "fail_text": [
             "Maybe they're coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and no one else on the patrol is very helpful either. They return to camp without any burdock, prickling with frustration."
@@ -674,15 +674,15 @@
     "patrol_id": "mtn_med_gatheringburdock_greenleaf1",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "herb", "burdock", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "burdock", "many_herbs1", "many_herbs2", "med_cat", "plantain"],
     "intro_text": "With the full sun of greenleaf fueling plant growth everywhere, it's the perfect time to hunt for burdock. p_l heads out to replenish the Clan's stocks.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The heat of greenleaf has made the burdock plants grow to towering size, with some leaves approaching the length of an adult cat. It's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult!",
-            "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. Laying the fat roots out in a towering but neat pile in the herb stores makes p_l thrum with a contented purr.",
-            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot."
+            "The heat of greenleaf has made the burdock plants grow to towering size, with some leaves approaching the length of an adult cat. It's not finding them that's hard, it's trying to carry all the roots back to camp all at once that proves difficult! On the way back, they spot some plantain and almost drop all of their roots when they attempt to collect it.",
+            "Luck is on p_l's side today, and the burdock is both plentiful and easy to find. On the way back to camp, they even find some freshly sprouted plantain to pick! Laying the fat roots out in a towering pile in the herb stores makes p_l thrum with a contented purr, even as they're still tucking the plantain leaves away in a shady spot.",
+            "s_c shows their usual talent for spotting herbs, trotting straight over to a burdock plant and digging at its foot. They're pleasantly surprised when they also spot a hidden patch of plantain on the way back. Good gathering today, it seems!"
 ],
     "fail_text": [
             "Maybe they're coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and it feels like a wasted afternoon."
