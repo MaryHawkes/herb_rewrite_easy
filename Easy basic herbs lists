@@ -1784,14 +1784,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. Perhaps there will also be other herbs ready to be collected, such as some wild garlic. p_l heads out to look for them.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Just as useful is the wild garlic that they spot a little ways from the dandelions, hidden by some undergrowth, but impossible to miss due to their scent.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants, and bonus wild garlic, too. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. It is to also their delight that a stinky scent tickles their nose as they start the haul back to camp and they track down its origin: fresh wild garlic, ready to be collected! Talk about good luck!"
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1810,14 +1810,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal. Maybe there will be some other herbs ready to be collected as well, such as wild garlic, if they're lucky.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then p_l chuckles to themself, spotting a nearby patch of wild garlic not even a fox-length away. Time to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants, and bonus wild garlic. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1836,17 +1836,17 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol, with the instructions to also be on the lookout for wild garlic, as they don't tend to grow far from dandelions.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. It's short-lived when their noses scrunch up and they display their displeasure about having to help haul back the wild garlic that p_l discovers as well.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and bonus wild garlic. Later they'll sort the leaves and roots to be stored seperately, the dandelion leaves and garlic bulbs remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions - and bonus wild garlic - to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery, though the warriors decline helping carry the wild garlic, leaving that to p_l."
 ],
     "fail_text": [
-            "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
+            "The warriors that are supposed to be helping p_l gather dandelions and stinky garlic instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
     ],
     "win_skills": ["keen eye"],
     "win_trait": ["None"],
@@ -1862,14 +1862,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. ",
+    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. If they're lucky, they might also be able to find additional herbs, such as wild garlic.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Just as useful - but perhaps not as a toy - is the wild garlic that they spot a little ways from the dandelions, hidden by some undergrowth, but impossible to miss due to their scent.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. and the additional wild garlic they had been hoping to find. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1888,14 +1888,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble.  p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "Greenleaf's bounty means that finding dandelions - and hopefully other plants, like wild garlic - shouldn't be any trouble.  p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then p_l chuckles to themself, spotting a nearby patch of wild garlic not even a fox-length away, almost hidden by the blooming undergrowth. Time to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and additional wild garlic that had been impossible to miss on the way back. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft. They are especially proud when app1 notices the wild garlic nearby and points out that they can gather that as well."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1914,14 +1914,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol. With this many warriors, they should bring back a good haul, and might even be able to grab another herb - wild garlic, perhaps? - as well.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. They aren't quite as amused when it's time to gather the wild garlic that is growing some fox-lengths away from the dandelions!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll sort the leaves and roots of the dandelions to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and plentiful wild garlic to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery, and don't even have the heart to get annoyed when the warriors decline to help carry the wild garlic."
     ],
     "fail_text": [
             "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
@@ -1940,14 +1940,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. If dandelions are around, could there be something else needed for the herb storage, too, like wild garlic?",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Also as useful - but not a toy - is the wild garlic that p_l tracks down a few fox-lengths away from the dandelion patch they've found.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and countless wild garlic bulbs to bring back to camp."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1966,14 +1966,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal. If they were particularly lucky, p_l explains to app1, perhaps there might be some other plants, like wild garlic, around to collect as well.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then another scent touches their nose, drawing from them their thoughts, and they soon sniff out the wild garlic that was hidden a short distance away. It would be pretty funny to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft. They feel particularly proud when app1 notices the wild garlic without them needing to point it out."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1992,14 +1992,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol. With this many cats, they might be able to collect some other herbs along the way, too, such as the wild garlic that p_l knows grows near the dandelion patch they're looking for.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. Their faces are a lot less amusing when p_l points out that they need to gather the wild garlic nearby as well.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and wild garlic bulbs. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
     ],
     "fail_text": [
             "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
@@ -2018,14 +2018,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "dandelion", "med_cat"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. Maybe there is some wild garlic out there as well...",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. At least the wild garlic bulbs they sniffed out nearby were in much better shape and as stinky as ever.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants and a single surviving wild garlic bulb.",
+            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It's hard not to preen when they discover the wild garlic patch not far away from it, too, though that was much easier to notice due to its strong scent."
 ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -2050,14 +2050,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "dandelion", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. Time for app1 to learn about the resources that're still available to gather during leaf-bare.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the plants like dandelions and wild garlic are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap or stinky bulbs. Time for app1 to learn about the resources that're still available to gather during leaf-bare.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 40,
     "exp": 40,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. Still, they make sure to praise app1 as they head back home with their harvest. The apprentice hasn't uttered a single word of complaint about the miserable conditions.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen app1's happiness when they manage to uncover a couple good dandelion plants. Watching them find joy in safeguarding the Clan, p_l feels a swoop of pride and affection for the apprentice. The medicine cat path suits them.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. Still, they make sure to praise app1 as they head back home with their harvest. The apprentice hasn't uttered a single word of complaint about the miserable conditions and was even the one to find the wild garlic on the way back home.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen app1's happiness when they manage to uncover a couple good dandelion plants. Watching them find joy in safeguarding the Clan, p_l feels a swoop of pride and affection for the apprentice. Their instincts are sharp, too, as it's app1 who notices the single wild garlic bulb a little distance away that survived the frost while the others withered. The medicine cat path suits them.",
+            "It's not just spotting things that s_c is talented at - finding any plants in leaf-bare is hard enough, but finding good, non-wilted leaves of dandelions and an intact wild garlic bulb is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
 ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -2082,14 +2082,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "dandelion", "big_change", "no_leader", "platonic", "dislike", "respect"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. They bring along a patrol of shivering Clanmates - more paws will make light work of digging through the snow.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. They bring along a patrol of shivering Clanmates - more paws will make light work of digging through the snow. Plus, this would be a good chance to stock up on some other herbs, too, such as wild garlic, if they can find it.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. They make sure that when they return to camp with the additions to the herb stores that everyone can hear them praise the members of the patrol to the leader.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants. They make sure to check up on the pawpads of the warriors who helped them once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, and then the wild garlic bulbs almost immediately after, but what matters currently is that it's possible. They make sure that when they return to camp with the additions to the herb stores that everyone can hear them praise the members of the patrol to the leader.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants and a pawful of much-needed wild garlic bulbs. They make sure to check up on the pawpads of the warriors who helped them once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
+            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. This becomes even clearer when they are able to sniff out the muted reek of the wild garlic hidden near the dandelions under the snow. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
     ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -4642,15 +4642,15 @@
     "patrol_id": "mtn_med_gatheringplantain_newleaf1",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path, next to a mullein sprout.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home."
+            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple."
 ],
     "fail_text": [
             "p_l fails to find any plantain, and as the plant sometimes dies completely in leaf-bare, can't use any of the spots they know from last year."
@@ -4668,15 +4668,15 @@
     "patrol_id": "mtn_med_gatheringplantain_newleaf2",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_only", "med_cat", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves. app1 asks to come along!",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path, next to a mullein sprout. They teach app1 how the leaves can be opened and used on top of cobwebs for wound binding - although the plant doesn't actually help with wound healing, the leaves make good structural support for other remedies.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1. Oh, and there's some mullein to pick up on the way home."
+            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path. They teach app1 how the leaves can be opened and used on top of cobwebs for wound binding - although the plant doesn't actually help with wound healing, the leaves make good structural support for other remedies.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1."
 ],
     "fail_text": [
             "p_l fails to find any plantain, and as the plant sometimes dies completely in leaf-bare, can't use any of the spots they know from last year. app1's calivalier attitude is not helping."
@@ -4694,15 +4694,15 @@
     "patrol_id": "mtn_med_gatheringplantain_newleaf3",
     "biome": "mountainous",
     "season": "newleaf",
-    "tags": ["med_cat", "warrior", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "The plantain plants have reawoken, and p_l plans to go gather some of their leaves with a gathering patrol.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path, next to a mullein sprout. The warriors help them pull up the entire plant, roots and all. Only the leaves are useful to p_l, but the plantain blocking the path is too annoying in this spot.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home, and the warriors get to tidy their paths through the territory."
+            "Deep green even in newleaf and with a characteristic smoothness, p_l finds the plantain where they expected - right in the middle of a path. The warriors help them pull up the entire plant, roots and all. Only the leaves are useful to p_l, but the plantain blocking the path is too annoying in this spot.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. And the warriors get to tidy their paths through the territory."
 ],
     "fail_text": [
             "p_l fails to find any plantain, and as the plant sometimes dies completely in leaf-bare, can't use any of the spots they know from last year, although the warriors dismiss their concerns about the weeds."
@@ -4720,15 +4720,15 @@
     "patrol_id": "mtn_med_gatheringplantain_greenleaf1",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp blocked off by them, but hey, there's plantain. Nearby, a mullein plant looks like it's about to topple onto the path too, and p_l clears it away before it can.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home."
+            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp be blocked off by them, but hey, there's plantain.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple."
 ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves."
@@ -4746,15 +4746,15 @@
     "patrol_id": "mtn_med_gatheringplantain_greenleaf2",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_only", "med_cat", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home. app1 asks why the plant might choose such a strange spot to grow, and p_l gives them their best guess.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp be blocked off by them, but hey, there's plantain. They show app1 how the leaves can make excellent structural support for bandages and ploutrices. Nearby, a mullein plant looks like it's about to topple onto the path too, and p_l clears it away before it can.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1. Oh, and there's some mullein to pick up on the way home."
+            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp be blocked off by them, but hey, there's plantain. They show app1 how the leaves can make excellent structural support for bandages and ploutrices.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1."
 ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves. app1 keeps suggesting they look somewhere that isn't a busy throughfare."
@@ -4772,15 +4772,15 @@
     "patrol_id": "mtn_med_gatheringplantain_greenleaf3",
     "biome": "mountainous",
     "season": "greenleaf",
-    "tags": ["med_cat", "warrior", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
     "intro_text": "As the plantain starts to choke off the paths the Clan uses to get about, fuelled by greenleaf, it's a great time to clean up the paths and bring a good harvest home. p_l brings along their Clanmates, both for carrying and because the deputy has mentioned particular paths they'd really like cleared.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp be blocked off by them, but hey, there's plantain. The warriors are relieved p_l lets them clear the plants away - there'll be plantain elsewhere, and the Clan needs this path. Nearby, a mullein plant looks like it's about to topple onto the path too, and p_l clears it away before it can.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home, and the warriors get to tidy their paths through the territory."
+            "p_l doesn't so much find the plantain plants as find one of the main paths headed away from camp be blocked off by them, but hey, there's plantain. The warriors are relieved p_l lets them clear the plants away - there'll be plantain elsewhere, and the Clan needs this path.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. And the warriors get to tidy their paths through the territory."
     ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves. The warriors are pleased to see the plant dying - they've been stomping on it every time they've come through here."
@@ -4798,15 +4798,15 @@
     "patrol_id": "mtn_med_gatheringplantain_leaf-fall1",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "med_cat"],
+    "tags": ["med_only", "herb", "plantain", "many_herbs1", "many_herbs2", "med_cat"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on. They also stop off for some mullein, easily spotted from afar by its ridicuous shape.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home."
+            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple."
 ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves."
@@ -4824,15 +4824,15 @@
     "patrol_id": "mtn_med_gatheringplantain_leaf-fall2",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_only", "med_cat", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
+    "tags": ["med_only", "med_cat", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall. app1 asks if they'll really die back in leaf-bare - the plant seems too determined to give up in the cold.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on. They also stop off for some mullein, easily spotted from afar by its ridicuous shape. app1 is worried about the herb stores when they arrive back at camp, and p_l reassures them that c_n will be alright.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1. Oh, and there's some mullein to pick up on the way home."
+            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on. app1 is worried about the herb stores when they arrive back at camp, and p_l reassures them that c_n will be alright.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of, and always taught early in the herbal lore each medicine cat must memorise.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple, p_l teaches app1."
 ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves. app1 keeps suggesting they look somewhere that isn't a busy throughfare."
@@ -4850,15 +4850,15 @@
     "patrol_id": "mtn_med_gatheringplantain_leaf-fall3",
     "biome": "mountainous",
     "season": "leaf-fall",
-    "tags": ["med_cat", "warrior", "herb", "plantain", "mullein", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
+    "tags": ["med_cat", "warrior", "herb", "plantain", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
     "intro_text": "p_l is always amused by the plantain's enduring cheerfulness in the face of being trodden on, and it's nice that the plants grow with such enthusiasm right to the end of leaf-fall. The warriors they're bringing along seem to regard their task as more path clearing and less herb gathering.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on. Even the warriors seem less irritated at the plantain plants than usual, instead valuing the herb while they can still find it. They also stop off for some mullein, easily spotted from afar by its ridicuous shape.",
-            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest. p_l finds today's harvest growing overshadowed by a big mullein, and takes that too.",
-            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. Oh, and there's some mullein to pick up on the way home, and the warriors get to tidy their paths through the territory."
+            "Not one of the plants that turn red before they die off for leaf-bare, p_l carries the green plantain leaves home through a territory ever less green as leaf-fall wears on. Even the warriors seem less irritated at the plantain plants than usual, instead valuing the herb while they can still find it.",
+            "Suitable for soothing throat and pelt irritation, and with a welcome weird habit of consistently sprouting up on well-trodden paths, plantain is a basic but valuable herb to keep stocks of. It's even relatively innoculous taste wise, making it easy to harvest.",
+            "Go to where other animals wander through c_n's territory on little beaten paths, wander around under you bump nose first into a plantain plant, harvest. Simple. And the warriors get to tidy their paths through the territory."
     ],
     "fail_text": [
             "p_l finds a plantain plant growing in the middle of a path, but it's trampled and useless until it regrows its leaves. The warriors are pleased to see the plant dying - they've been stomping on it every time they've come through here."
@@ -5379,84 +5379,6 @@
         null,
         "r_c died before completing their medicine cat training from accidentally eating deathberries."
 ]
-},
-{
-    "patrol_id": "mtn_med_gatheringraspberry_leaf-fall1",
-    "biome": "mountainous",
-    "season": "leaf-fall",
-    "tags": ["med_only", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "As leaf-fall arrives the raspberry plants burst into fruit, suddenly revealing that several brambles p_l assumed were roses are actually useful for herb harvesting.",
-    "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
-    "chance_of_success": 70,
-    "exp": 10,
-    "success_text": [
-            "Careful now. p_l finds raspberry brambles aplenty, with blackberry dotted in between, both utterly coated in fruit. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future.",
-            "Perfect - there's a good crop of raspberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Setting the leaves out to dry before they're put away in the herb stores, p_l purrs at the sight of their harvest.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both raspberry and blackberry."
-],
-    "fail_text": [
-            "p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
-    ],
-    "win_skills": ["keen eye"],
-    "win_trait": ["None"],
-    "fail_skills": ["None"],
-    "fail_trait": ["None"],
-    "min_cats": 1,
-    "max_cats": 1,
-    "antagonize_text": null,
-    "antagonize_fail_text": null
-},
-{
-    "patrol_id": "mtn_med_gatheringraspberry_leaf-fall2",
-    "biome": "mountainous",
-    "season": "leaf-fall",
-    "tags": ["med_only", "med_cat", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "As leaf-fall arrives the raspberry plants burst into fruit, suddenly revealing that several brambles p_l assumed were roses are actually useful for herb harvesting. app1 isn't commenting on their mentor's mistake.",
-    "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
-    "chance_of_success": 70,
-    "exp": 20,
-    "success_text": [
-            "Careful now. p_l finds raspberry brambles aplenty, with blackberry dotted in between, both utterly coated in fruit. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l teaches app1.",
-            "Perfect - there's a good crop of raspberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Seeing the leaves set out to dry, app1 watching over them diligently, makes p_l feel like they can relax.",
-            "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both raspberry and blackberry. app1 smiles to hear the quiet sound, comforted by the familiar work and tune."
-],
-    "fail_text": [
-            "With app1 following them, p_l attempts to pick their way through the blackberry thorns to reach the leaves, but it soon becomes clear that it's a hopeless task."
-    ],
-    "win_skills": ["keen eye"],
-    "win_trait": ["None"],
-    "fail_skills": ["None"],
-    "fail_trait": ["None"],
-    "min_cats": 2,
-    "max_cats": 2,
-    "antagonize_text": null,
-    "antagonize_fail_text": null
-},
-{
-    "patrol_id": "mtn_med_gatheringraspberry_leaf-fall3",
-    "biome": "mountainous",
-    "season": "leaf-fall",
-    "tags": ["med_cat", "warrior", "herb", "blackberry", "raspberry", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
-    "intro_text": "As leaf-fall arrives the raspberry plants burst into fruit, suddenly revealing that several brambles p_l assumed were roses are actually useful for herb harvesting. They bring some of their clanmates along to take advantage of the opportunity.",
-    "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
-    "chance_of_success": 70,
-    "exp": 10,
-    "success_text": [
-           "Careful now. p_l finds raspberry brambles aplenty, with blackberry dotted in between, both utterly coated in fruit. This is the season for berry picking, and time to leave the leaves alone in anticipation of the coming leaf-bare. The berries are a poor substitute for the leaves, but a medicine cat has to think of the future, p_l explains to the warriors.",
-           "Perfect - there's a good crop of raspberries just waiting for them, and the bramble seems to be sending out new exploratory branches too, promising more growth in the future. Their Clanmates send p_l away for a nap in the sunshine as they organise the berries and p_l smiles appreciatively.",
-           "s_c falls into the meditative state that herb-gathering brings, and they hum to themselves as they work, crisply plucking from the brambles they encounter, both raspberry and blackberry. The patrol follows their lead, and its a relaxed group that wanders back into camp with a massive haul from the blackberry bushes."
-    ],
-    "fail_text": [
-            "p_l manages to avoid a torn pelt only by the grace of StarClan, and isn't going to risk sending anyone else into the brambles with them having so many thorns at the moment. They'll have to try a different blackberry bush on another day."
-    ],
-    "win_skills": ["keen eye"],
-    "win_trait": ["None"],
-    "fail_skills": ["None"],
-    "fail_trait": ["None"],
-    "min_cats": 3,
-    "max_cats": 6,
-    "antagonize_text": null,
-    "antagonize_fail_text": null
 },
 {
 "patrol_id": "mtn_med_gatheringrosemary1",
