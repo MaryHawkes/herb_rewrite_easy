@@ -2119,8 +2119,8 @@
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. The fact that the juniper was, in fact, also where they thought it was and ready to be collected just made it that much better - and easier, so they didn't have to come back to this area.",
-            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously. The deliciously plump juniper berries dangling right there on its bush, fully prepared to be plucked not even a tail-length from the elder leaves, brightened their mood even more.",
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. The fact that the juniper was, in fact, also where they thought it was and ready to be collected just made it that much better - and easier for future p_l, who didn't have to come back to this area any time soon, unless they absolutely had to.",
+            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously. The deliciously plump juniper berries dangling from the bush on the other side of the tree trunk when they leap down to safety brightens their mood even more.",
             "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
 ],
     "fail_text": [
@@ -2143,14 +2143,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
+    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful. If that juniper bush is also still where p_l thinks it is, that will make their lesson even better.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 60,
     "exp": 20,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't going to disuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree.",
-            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously, a great demonstration to app1 about why they came here and not anywhere else.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp both medicine cats strip off the leaves and give them a quick wash."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't ging to dissuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree. Amused, p_l leaves them to it and tracks down the juniper berry bush they know is nearby, and lets out a triumphant mew of their own when they find it.",
+            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously, a great demonstration to app1 about why they came here and not anywhere else for both elder leaves and juniper berries.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches of their respective branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp, both medicine cats strip off the elder leaves and carefully set the berries aside, then give all their newly-collected herbs a quick wash."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2172,14 +2172,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them.",
+    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them. With help, they'll probably be able to pluck some much-needed juniper berries, too, as long as the birds and squirrels haven't gotten to that bush...",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as they strip leaves from the tree.",
-            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously. The patrol chats and jokes to one another as they get to work plucking leaves to bring a impressive haul home.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as they split up - one group to strip leaves from the tree, and the other to go fetch those juniper berries that p_l can spot from here.",
+            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously, in addition to the juniper berry bush on the other side of the trunk. The patrol chats and jokes to one another as they get to work plucking leaves and berries to bring a impressive haul home.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants, they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and berries off their respective twigs and carefully store them."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2201,14 +2201,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today.",
+    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today. Gathering juniper isn't a sought-out goal for this trip, but it would be nice if they could find some of those berries, too.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects.",
-            "The tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground, making gathering simple in the warm greenleaf sun.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. At least the juniper berries are much easier to find and gather.",
+            "The tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground, making gathering simple in the warm greenleaf sun. Delighted, p_l hums when a flash of blue catches their eye, and they spot juniper berries swaying gently in the breeze. This was a good herb-scavenging session.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2230,14 +2230,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
+    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful. If that juniper bush is also still where p_l thinks it is, that will make their lesson even better, but they won't count on that, just in case the squirrels and birds have already stolen all the berries.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 60,
     "exp": 20,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't going to disuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree.",
-            "The tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground, making gathering simple in the warm greenleaf sun. They even stop for a nap before going home, app1 stretching out and ripping at the ground with their claws indulgently.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp both medicine cats strip off the leaves and give them a quick wash."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't going to disuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree. p_l chuckles and waits for them patiently, and once app1 hops down happily, holding onto their hard-won prize, p_l shows them how to pluck the berries off the juniper bush right under the tree.",
+            "The tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground, making gathering the elder leaves and juniper berries simple in the warm greenleaf sun. They even stop for a nap before going home, app1 stretching out and ripping at the ground with their claws indulgently.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp both medicine cats strip off the leaves and give them a quick wash."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2259,14 +2259,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them.",
+    "intro_text": "The thick growth of greenleaf will serve c_n well today, p_l decides, thinking about gathering elder leaves. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing a group of their Clanmates with them. As they head out, p_l also asks their Clanmates to stay on the lookout for juniper, as they would like to find some of that today as well.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as they strip leaves from the tree.",
-            "The tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground, making gathering simple in the warm greenleaf sun. It makes the patrol an easy mission, with the cats taking the opportunity to hang out an socialise as much as herb-gather.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as they strip leaves from the tree. Afterward, they track down the juniper easily enough, and are just as careful plucking it off its branches, taking care to not rip squash it or rip the flesh. These are best used fresh.",
+            "The elder tree, growing in a sheltered spot without huge amounts of wind, has branches that extend to a whisker-length above the ground right over a juniper bush, making gathering the leaves and berries simple in the warm greenleaf sun. It makes the patrol an easy mission, with the cats taking the opportunity to hang out and socialise as much as herb-gather.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
     ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2288,14 +2288,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today.",
+    "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves and juniper berries as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today that might yield results for both herbs.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects.",
-            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects, as they gather first the juniper, and then start the climb for those elder leaves.",
+            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get. Gathering that juniper they can see from this height will be the next thing on their list!",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2317,14 +2317,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful.",
+    "intro_text": "With leaf-fall washing the world in tones of red and brown, p_l feels the need to gather as many elder leaves as possible, before the season turns and the Clan must survive without new stocks during leaf-bare. There's a particular tree in a sheltered dip along a stream they want to check on today, bringing app1 to show them why choosing to harvest from a sheltered plant can be helpful. Perhaps that juniper bush will serve as an additional lesson, if they can find it again...",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 60,
     "exp": 20,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't going to disuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree.",
-            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get. app1 soaks up the information, filing it away in their ever-increasing herbcraft knowledge.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp both medicine cats strip off the leaves and give them a quick wash."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. app1 is more occupied climbing the tree, and p_l isn't going to disuade them from the pride they feel plucking from the highest branches, even if those leaves aren't anymore potent than the ones at the bottom of the tree. It is with some amusement that p_l leaves them to it and carefully gathers some juniper off the bush a couple tail-lengths away from where app1 is getting the elder leaves. These will do nicely for their storage.",
+            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get. app1 soaks up the information, filing it away in their ever-increasing herbcraft knowledge. Seemingly emboldened and inspired by the lesson, they are the ones to point out the juniper on the way back, and p_l praises them for their good eye.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. They pass on the trick to app1, and once they're back at camp both medicine cats strip off the leaves and give them a quick wash."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
@@ -2351,9 +2351,9 @@
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as they strip leaves from the tree.",
-            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get. The wrriors are less selective, but the sheer quantity p_l is able to bring back to camp with their help more than makes up for it.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. They share the little joke with the patrol, and the cats murrp with amusement, but it also reminds everyone to be careful as the group splits up. One set will strip the leaves from the tree, while the other fetches those plump juniper berries that p_l noticed a few fox-lengths away.",
+            "Ignoring the leaves piled up at the tree's base, which lack any herbal potency, p_l instead gets a good crop, choosing leaves as close to green as possible for maximum usefulness, which p_l finds tends to fade the more red the leaf-fall elder leaves get. The warriors are less selective, but the sheer quantity p_l is able to bring back to camp with their help more than makes up for it. The juniper berries gathered on the way home aren't in too bad condition, either, by the time the cats reach camp.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead. With so many assistants they can bring a truely massive haul home, where the rest of the patrol helps them strip the leaves and carefully store them."
     ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
