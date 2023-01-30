@@ -1784,14 +1784,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. Perhaps there will also be other herbs ready to be collected, such as some wild garlic. p_l heads out to look for them.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Just as useful is the wild garlic that they spot a little ways from the dandelions, hidden by some undergrowth, but impossible to miss due to their scent.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants, and bonus wild garlic, too. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. It is to also their delight that a stinky scent tickles their nose as they start the haul back to camp and they track down its origin: fresh wild garlic, ready to be collected! Talk about good luck!"
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1810,14 +1810,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal. Maybe there will be some other herbs ready to be collected as well, such as wild garlic, if they're lucky.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then p_l chuckles to themself, spotting a nearby patch of wild garlic not even a fox-length away. Time to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants, and bonus wild garlic. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1836,17 +1836,17 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "The strenthening sun in the sky will bring dandelion plants out - always the first to take advantage of newleaf, those ones. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol, with the instructions to also be on the lookout for wild garlic, as they don't tend to grow far from dandelions.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. It's short-lived when their noses scrunch up and they display their displeasure about having to help haul back the wild garlic that p_l discovers as well.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and bonus wild garlic. Later they'll sort the leaves and roots to be stored seperately, the dandelion leaves and garlic bulbs remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions - and bonus wild garlic - to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery, though the warriors decline helping carry the wild garlic, leaving that to p_l."
 ],
     "fail_text": [
-            "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
+            "The warriors that are supposed to be helping p_l gather dandelions and stinky garlic instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
     ],
     "win_skills": ["keen eye"],
     "win_trait": ["None"],
@@ -1862,14 +1862,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. ",
+    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. If they're lucky, they might also be able to find additional herbs, such as wild garlic.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Just as useful - but perhaps not as a toy - is the wild garlic that they spot a little ways from the dandelions, hidden by some undergrowth, but impossible to miss due to their scent.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. and the additional wild garlic they had been hoping to find. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1888,14 +1888,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble.  p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "Greenleaf's bounty means that finding dandelions - and hopefully other plants, like wild garlic - shouldn't be any trouble.  p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then p_l chuckles to themself, spotting a nearby patch of wild garlic not even a fox-length away, almost hidden by the blooming undergrowth. Time to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and additional wild garlic that had been impossible to miss on the way back. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft. They are especially proud when app1 notices the wild garlic nearby and points out that they can gather that as well."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1914,14 +1914,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "Greenleaf's bounty means that finding dandelions shouldn't be any trouble. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol. With this many warriors, they should bring back a good haul, and might even be able to grab another herb - wild garlic, perhaps? - as well.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. They aren't quite as amused when it's time to gather the wild garlic that is growing some fox-lengths away from the dandelions!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll sort the leaves and roots of the dandelions to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and plentiful wild garlic to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery, and don't even have the heart to get annoyed when the warriors decline to help carry the wild garlic."
     ],
     "fail_text": [
             "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
@@ -1940,14 +1940,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "herb", "dandelion", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. If dandelions are around, could there be something else needed for the herb storage, too, like wild garlic?",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy. Also as useful - but not a toy - is the wild garlic that p_l tracks down a few fox-lengths away from the dandelion patch they've found.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and countless wild garlic bulbs to bring back to camp."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants."
@@ -1966,14 +1966,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_only", "med_cat", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, taking app1 to learn about one of the most useful common herbs in the medicine cat aresenal. If they were particularly lucky, p_l explains to app1, perhaps there might be some other plants, like wild garlic, around to collect as well.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and p_l smiles, remembering seeing app1 playing with them only a few moons ago. They're growing up so fast. Then another scent touches their nose, drawing from them their thoughts, and they soon sniff out the wild garlic that was hidden a short distance away. It would be pretty funny to see how app1 will react to this stinky herb!",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and several wild garlic bulbs. Later they'll teach app1 to sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. Instead they let app1 take the lead in finding the herb plants, praising them for all the progress they've made in herbcraft. They feel particularly proud when app1 notices the wild garlic without them needing to point it out."
 ],
     "fail_text": [
             "Unfortunately, c_n doesn't seem to be the only things after dandelions, and p_l can't gather from this patch without killing off the already damaged plants. app1 actually starts an argument about it, insistant that they don't need to worry about protecting the dandelion patch for the future."
@@ -1992,14 +1992,14 @@
     "biome": "mountainous",
     "season": "leaf-fall",
     "tags": ["med_cat", "warrior", "herb", "dandelion", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "respect"],
-    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol.",
+    "intro_text": "Yellow flowers poke out from the leaf litter, signalling that the dandelions haven't given up on growing for the season. p_l heads out to look for them, bringing a group of their Clanmates along for the gathering patrol. With this many cats, they might be able to collect some other herbs along the way, too, such as the wild garlic that p_l knows grows near the dandelion patch they're looking for.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather.",
-            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
-            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
+            "Truly, dandelions are an essential herb to keep in stock, crucial for poisons and stings. The white milk in their roots and stems keeps for a long time and is a potent cure for poison, while their leaves are weaker but fast-acting and can be chewed into poultices. Even the fluffy dandelion heads are useful as a c_n kitten's favourite short lived toy, and the warriors share nursery memories about them as they gather. Their faces are a lot less amusing when p_l points out that they need to gather the wild garlic nearby as well.",
+            "It's a successful gathering mission, with p_l striding back to camp with a great haul of entire dandelion plants and wild garlic bulbs. Later they'll sort the leaves and roots to be stored seperately, the leaves remain fresh for a far shorter time, but for now they make sure to thank the warriors that've helped them bring home so many.",
+            "With warmth in the air and ground, s_c doesn't need to try very hard to find an excellent haul of dandelions and wild garlic to bring back to camp. They help the warriors carefully pluck fluffy dandelions heads to bring back for the nursery."
     ],
     "fail_text": [
             "The warriors that are supposed to be helping p_l gather dandelions instead seem more intent on hunting, and p_l gives up, storming back to camp with their temper flaring."
@@ -2018,14 +2018,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "cold_injury", "scar", "herb", "dandelion", "med_cat"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. Maybe there is some wild garlic out there as well...",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. At least the wild garlic bulbs they sniffed out nearby were in much better shape and as stinky as ever.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants and a single surviving wild garlic bulb.",
+            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It's hard not to preen when they discover the wild garlic patch not far away from it, too, though that was much easier to notice due to its strong scent."
 ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -2050,14 +2050,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_only", "med_cat", "cold_injury", "scar", "herb", "dandelion", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. Time for app1 to learn about the resources that're still available to gather during leaf-bare.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the plants like dandelions and wild garlic are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap or stinky bulbs. Time for app1 to learn about the resources that're still available to gather during leaf-bare.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 40,
     "exp": 40,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. Still, they make sure to praise app1 as they head back home with their harvest. The apprentice hasn't uttered a single word of complaint about the miserable conditions.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen app1's happiness when they manage to uncover a couple good dandelion plants. Watching them find joy in safeguarding the Clan, p_l feels a swoop of pride and affection for the apprentice. The medicine cat path suits them.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. Still, they make sure to praise app1 as they head back home with their harvest. The apprentice hasn't uttered a single word of complaint about the miserable conditions and was even the one to find the wild garlic on the way back home.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen app1's happiness when they manage to uncover a couple good dandelion plants. Watching them find joy in safeguarding the Clan, p_l feels a swoop of pride and affection for the apprentice. Their instincts are sharp, too, as it's app1 who notices the single wild garlic bulb a little distance away that survived the frost while the others withered. The medicine cat path suits them.",
+            "It's not just spotting things that s_c is talented at - finding any plants in leaf-bare is hard enough, but finding good, non-wilted leaves of dandelions and an intact wild garlic bulb is next to impossible, and it's a mark of s_c's unique skills that they manage it. app1 trails in their wake, wide eyed and impressed."
 ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -2082,14 +2082,14 @@
     "biome": "mountainous",
     "season": "leaf-bare",
     "tags": ["med_cat", "warrior", "cold_injury", "scar", "herb", "dandelion", "big_change", "no_leader", "platonic", "dislike", "respect"],
-    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. They bring along a patrol of shivering Clanmates - more paws will make light work of digging through the snow.",
+    "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead, and if they can get their paws on a plant the roots will still hold fresh white milky sap. They bring along a patrol of shivering Clanmates - more paws will make light work of digging through the snow. Plus, this would be a good chance to stock up on some other herbs, too, such as wild garlic, if they can find it.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, but what matters currently is that it's possible. They make sure that when they return to camp with the additions to the herb stores that everyone can hear them praise the members of the patrol to the leader.",
-            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants. They make sure to check up on the pawpads of the warriors who helped them once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
-            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
+            "p_l can't say it's fun, swiping away snow to scrouge for the bodies and roots of wilted dandelions beneath, and then the wild garlic bulbs almost immediately after, but what matters currently is that it's possible. They make sure that when they return to camp with the additions to the herb stores that everyone can hear them praise the members of the patrol to the leader.",
+            "It's a truly miserable gray day, but the colds of leaf-bare can't dampen p_l's happiness when they manage to uncover a couple good dandelion plants and a pawful of much-needed wild garlic bulbs. They make sure to check up on the pawpads of the warriors who helped them once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
+            "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that they manage it. This becomes even clearer when they are able to sniff out the muted reek of the wild garlic hidden near the dandelions under the snow. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat."
     ],
     "fail_text": [
             "Not only does p_l end up soaked to the skin, but they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
@@ -2114,14 +2114,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "elder_leaves", "minor_injury", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today.",
+    "intro_text": "As newleaf brings green back to the world, p_l has been eagerly anticipating the unfurling of the new leaf buds on the elder trees. There's a particular tree in a sheltered dip along a stream they want to check on today. Maybe that juniper they saw growing nearby the other day is ready to be plucked as well...",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects.",
-            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously.",
-            "s_c has managed to discover, with time and experience, that elder leaf picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
+            "Elder leaves being used to soothe sprains and elder leaves having to be gathered in a way that risks sprains is truly one of StarClan's little ironies, p_l reflects. The fact that the juniper was, in fact, also where they thought it was and ready to be collected just made it that much better - and easier, so they didn't have to come back to this area.",
+            "p_l manages to gather more than they were expecting - the tree they chose is in a good spot and has begun its newleaf growth early and vigoriously. The deliciously plump juniper berries dangling right there on its bush, fully prepared to be plucked not even a tail-length from the elder leaves, brightened their mood even more.",
+            "s_c has managed to discover, with time and experience, that elder leaf and juniper berry picking is actually better handled by chewing off several low hanging thin branches and carting those back to camp instead."
 ],
     "fail_text": [
             "Unfortunately, the elder tree p_l has picked out seems to have a bug infestation of some kind, and p_l doesn't want to use these tattered, diseased-looking leaves.",
