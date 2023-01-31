@@ -4414,9 +4414,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Towering into the sky, p_l always finds the blush of new leaves budding from oak branches one of the most hopeful signs of newleaf.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground."
+            "Towering into the sky, p_l always finds the blush of new leaves budding from elder and oak branches one of the most hopeful signs of newleaf.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. p_l is always happy to bring a good crop of them back to the herb stores.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves. Suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, s_c takes the oppurtunity to gather a decent collection."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4440,9 +4440,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Towering into the sky, p_l always finds the blush of new leaves budding from oak branches one of the most hopeful signs of newleaf. They give app1 a lesson on using the trees to track the season - not just what moon it is, which only matters a little, but how warm or cool or wet the season has been so far.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same."
+            "Towering into the sky, p_l always finds the blush of new leaves budding from elder and oak branches one of the most hopeful signs of newleaf. They give app1 a lesson on using the trees to track the season - not just what moon it is, which only matters a little, but how warm or cool or wet the season has been so far.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. They're always happy to bring a good crop of the precious leaves back to the herb stores. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves. Suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, s_c and app1 take the oppurtunity to gather a decent collection between them."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4466,9 +4466,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Towering into the sky, p_l always finds the blush of new leaves budding from oak branches one of the most hopeful signs of newleaf. The warriors helping them seem to just find it a fun training exercise, to see how spindly a branch they're able to balance on as they send down a rain of leaves to p_l.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. Their Clanmates are, as expected, a huge help carrying everything back home.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. It's less entertaining for the warriors heping them, but the cats still make a nice easy afternoon of it."
+            "Towering into the sky, p_l always finds the blush of new leaves budding from elder and oak branches one of the most hopeful signs of newleaf. The warriors helping them seem to just find it a fun training exercise, to see how spindly a branch they're able to balance on as they send down a rain of leaves on top of p_l.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. Their Clanmates are, as expected, a huge help carrying everything back home.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves. Suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, s_c takes the oppurtunity to gather a decent collection. It's less entertaining for the warriors helping them, but the cats still make a nice easy afternoon of it."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4492,9 +4492,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground."
+            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves, an elder tree not far of also captures p_l's attention.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. They're always happy to bring a good crop of them back to the herb stores.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, s_c takes the oppurtunity to gather a decent collection."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4518,9 +4518,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves. app1 nearly gets stuck trying to climb up a challenging branch, but the branches are wide and strong and the apprentice soon overcomes their fear, making it back down to the ground.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same."
+            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves. app1 nearly gets stuck trying to climb up a challenging branch, but the branches are wide and strong and the apprentice soon overcomes their fear, making it back down to the ground. p_l spares app1 from climbing another tree and opts to climb the elder tree themselves.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, the patrol takes the oppurtunity to gather a decent collection."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4544,9 +4544,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves. The warriors flex their talents, and p_l encourages them as they show off their climbing skils, breaking off twigs to send the leaves down to p_l.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. Their Clanmates are, as expected, a huge help carrying everything back home.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. It's less entertaining for the warriors heping them, but the cats still make a nice easy afternoon of it."
+            "The shade of the oak tree makes the ground beneath it cool, and bodes well for harvesting its leaves. The warriors flex their talents, and p_l encourages them as they show off their climbing skils, breaking off twigs to send the leaves down to p_l, the warriors eye a nearby elder tree and dare oneanother to race to the top.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. Elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree. Their Clanmates are, as expected, a huge help carrying everything back home.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, Suddenly a sharp brisk wind rattles the leaves of the trees, sending a showering of leaves onto the forest floor, the patrol takes the oppurtunity to gather a decent collection. It's less entertaining for the warriors helping them, but the cats still make a nice easy afternoon of it."
     ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4570,9 +4570,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground."
+            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home, including an extra mouthful of elder leaves not wanting any good herb to be left to waste in the harsh frosts.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree still retaining most of its green leaves. They're always happy to bring a good crop of them back to the herb stores.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, suddenly a sharp brisk wind rattles the loose leaves of the branches, sending a showering of leaves onto the forest floor, the patrol takes the oppurtunity to gather a meager collection of the few green leaves."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4596,9 +4596,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home. app1 takes on the lesson about leaf colour quickly, impressing p_l with their efforts to learn herbcraft.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same."
+            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home, including an extra mouthful of elder leaves not wanting any good herb to be left to waste in the harsh frosts. app1 takes on the lesson about leaf colour quickly, impressing p_l with their efforts to learn herbcraft.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree still retaining most of its green leaves. They're always happy to bring a good crop of them back to the herb stores. They use the afternoon to give app1 the chance to lead their expidition, allowing the apprentice to swell with confidence.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. app1 asks them if the damaged branch will produce less potent leaves, but s_c doens't think so - if the leaves are growing here at all they should be the same. s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, suddenly a sharp brisk wind rattles the loose leaves of the branches, sending a showering of leaves onto the forest floor, the patrol takes the oppurtunity to gather a meager collection of the few green leaves."
 ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
@@ -4622,9 +4622,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home, especially with the warriors there, who turn it into a competition between themselves.",
-            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, and they're always happy to bring a good crop of them back to the herb stores. Their Clanmates are, as expected, a huge help carrying everything back home.",
-            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground. It's less entertaining for the warriors heping them, but the cats still make a nice easy afternoon of it."
+            "Picking only the green leaves proves challenging, but not impossible, and with careful effort p_l still manages to bring a decent number home, especially with the warriors there, who turn it into a competition between themselves. The patrol ends up bringing an extra mouthful of elder leaves not wanting any good herb to be left to waste in the harsh frosts.",
+            "As a basic infection-preventing herb, oak leaves are useful for nearly all of the various scrapes, cuts, and injuries p_l sees in the medicine den, elder leaves work well alongside them, being great for easing the pains of a sprain and to p_l's excitement they come across a young elder tree still retaining most of its green leaves. They're always happy to bring a good crop of them back to the herb stores. Their Clanmates are, as expected, a huge help carrying everything back home.",
+            "s_c spots an oak tree that's valiantly trying to sprout leaves from a half fallen branch, one of the casualties of last leaf-bare, and heads to harvest from that, taking the safe option of plucking leaves from the ground.  s_c notices an elder tree standing near by, debating whether to risk climbing it for the precious leaves, suddenly a sharp brisk wind rattles the loose leaves of the branches, sending a showering of leaves onto the forest floor, the patrol takes the oppurtunity to gather a meager collection of the few green leaves. It's less entertaining for the warriors heping them, but the cats still make a nice easy afternoon of it."
     ],
     "fail_text": [
             "The trees p_l finds don't look particularly safe to climb, and p_l is forced to give up on the idea of oak leaf gathering for today."
