@@ -2406,7 +2406,7 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The many stems surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod. Their communication contunies when they move their work over to the blossoming marigold, though it is easier to see each other when the flowers aren't quite as tall!",
+            "Many stems of goldenrod and marigold surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod. Their communication contunies when they move their work over to the blossoming marigold, though it is easier to see each other when the flowers aren't quite as tall!",
             "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and the cats collect more goldenrod and marigold than they were anticipating. app1 nearly disappears underneath their light but chaotically bushy bundle.",
             "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem or petal, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
@@ -2458,7 +2458,7 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. Their delight grows at seeing how much they collected, and it grows stronger still when they are able to carefully pluck some marigold as well, which they had made sure not to get their hopes on finding. Perhaps StarClan is being kind this season.",
+            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. Their delight grows at seeing how much they collected, and it grows stronger still when they are able to carefully pluck some marigold as well, which they had made sure not to get their hopes up of finding. Perhaps StarClan is being kind this season.",
             "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the plants next to it, bursting with health, and the marigold carefully peeking its way out from beneath the thicket next to the goldenrod. It, too, has been blooming, but in more subtle ways, until they take a closer look and see just how many flowers there are under the bush. Neither of these plants will miss the stems and flowers p_l takes.",
             "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores."
 ],
@@ -2484,9 +2484,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The many stems surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod.",
-            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the plants next to it, bursting with health. The plant won't miss the stems and flowers p_l and app1 take.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "Many stems of goldenrod and marigold surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod.",
+            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the marigold next to it, bursting with health. Neither will miss the stems and flowers p_l and app1 take.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod, and the odd marigold, to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -2511,8 +2511,8 @@
     "exp": 10,
     "success_text": [
             "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
-            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the plants next to it, bursting with health. The plant won't miss the stems and flowers p_l takes, not even when the entire patrol is here to carry off material for c_n's stores.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the marigold next to it, bursting with health. Neither will miss the stems and flowers p_l takes, not even when the entire patrol is here to carry off material for c_n's stores.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod, and the odd marigold, to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
@@ -2536,9 +2536,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores.",
-            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores."
+            "Many stems of goldenrod and marigold surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores.",
+            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot, including an opportunistic haul of marigold.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod, and the odd marigold, to take back for the Clan's stores."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
@@ -2562,9 +2562,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The many stems surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod.",
-            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot, and both medicine cat and apprentice are barely visible behind the bushy bundles they carry.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "Many stems of goldenrod and marigold surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod.",
+            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot, including an opportunistic haul of marigold, and both medicine cat and apprentice are barely visible behind the bushy bundles they carry.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod, and the odd marigold, to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -2588,9 +2588,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. The patrol chats, exchanging gossip and news as the smell of cut stems grows around them.",
-            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot, particularly with so many willing paws helping them.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "Many stems of goldenrod and marigold surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. The patrol chats, exchanging gossip and news as the smell of cut stems grows around them.",
+            "With the leaf-fall goldenrod bushes starting to die back, p_l collects all they can. That, it turns out, is a lot, particularly with so many willing paws helping them, and includes an opportunistic haul of marigold.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod, and the odd marigold, to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
