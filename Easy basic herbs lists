@@ -5038,9 +5038,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating."
+            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest and don't completely overpower the burdock plant sitting next to them.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth. The extra burdock root they pick up definitely doesn't make it easier.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5064,9 +5064,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest. Still, it's not a task p_l or app1 look forward to, although both of them acknowledge the need and put themselves to work.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. app1 is desperately grateful to learn the trick."
+            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest and don't completely overpower the burdock plant sitting next to them. Still, it's not a task p_l or app1 look forward to, although both of them acknowledge the need and put themselves to work.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression. p_l lets them carry some burdock they found instead.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. app1 is desperately grateful to learn the trick."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5090,9 +5090,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest. That's not a great improvement though, and they're still foul - p_l makes sure to send the warriors helping them for a drink afterwards, and that the whole camp sees them specifically thanking their long-suffering patrol for their work.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
+            "In newleaf, with most ragwort plants still flowerless, they're a little more bearable to harvest and don't completely overpower the burdock plant sitting next to them. That's not a great improvement though, and they're still foul - p_l makes sure to send the warriors helping them for a drink afterwards, and that the whole camp sees them specifically thanking their long-suffering patrol for their work.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, particulalry the extra burdock, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5116,9 +5116,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth. The extra burdock root they pick up definitely doesn't make it easier.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5142,9 +5142,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. app1 quietly asks if theres anythign they can do to block the scent, but no, it's just better to get harvesting over with quickly.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. app1 is desperately grateful to learn the trick."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby. app1 quietly asks if theres anything they can do to block the scent, but no, it's just better to get harvesting over with quickly.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression. p_l lets them carry some burdock they found instead.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. app1 is desperately grateful to learn the trick."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5168,9 +5168,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. There a chorus of long suffering sighs as the cats get to work, accomplishing their unpleasant task professionally but without any joy.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby. There a chorus of long suffering sighs as the cats get to work, accomplishing their unpleasant task professionally but without any joy.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, particulalry the extra burdock, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5194,9 +5194,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth. The extra burdock root they pick up definitely doesn't make it easier.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5220,9 +5220,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. app1 quietly asks if theres anythign they can do to block the scent, but no, it's just better to get harvesting over with quickly.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. app1 is desperately grateful to learn the trick."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby. app1 quietly asks if theres anything they can do to block the scent, but no, it's just better to get harvesting over with quickly.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, and has a lot of sympathy for app1's disgusted expression. p_l lets them carry some burdock they found instead.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. app1 is desperately grateful to learn the trick."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5246,9 +5246,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. There a chorus of long suffering sighs as the cats get to work, accomplishing their unpleasant task professionally but without any joy.",
-            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
-            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
+            "Ugh. The ragwort p_l finds is flowering, and the terrible taste of the plant leaks into the air as scent from its yellow flowers. It's so bad, p_l almost misses the burdock plant ready to be harvested nearby. There a chorus of long suffering sighs as the cats get to work, accomplishing their unpleasant task professionally but without any joy.",
+            "Ragwort brings strength to cats who need it, and eases aching joints, but StarClan it tastes absolutely foul. p_l's pleased with their harvest, particulalry the extra burdock, but really wishes they had a way to bring it back to camp that didn't need them to carry it in their mouth, a sentiment that the patrol helping them definitely shares, at length, very descriptively.",
+            "s_c has discovered a trick to harvesting the bountiful but foul ragwort, using their claws to tear leaves from the plant and then carefully carrying them back to camp without chewing or salivating, using some opportune burdock roots to cover their teeth. Some of the warriors are too impatient to follow their lead, and end up suffering the taste of ragwort as the patrol brings back loads of the leaves."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the ragwort leaves, and isn't going to harvest from plants they haven't confidently identified."
