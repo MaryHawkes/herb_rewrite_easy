@@ -3416,9 +3416,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp.",
-            "While the mellow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony.",
+            "While the mallow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest and newleaf not only brings mallow but betony to, the herb store wouldn't suffer from another pawful of it.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby."
 ],
     "fail_text": [
             "The weedy-looking mallow doesn't seem to be recovering well from leaf-bare this year, and it worries p_l."
@@ -3442,9 +3442,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
-            "While the mellow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest. They test app1 on their knowledge as they work, and the apprentice passes with flying colours.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and the medicine cats had just begun to run out of betony. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
+            "While the mallow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest and newleaf not only brings mallow but betony to, the herb store wouldn't suffer from another pawful of it. They test app1 on their knowledge as they work, and the apprentice passes with flying colours.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "The weedy-looking mallow doesn't seem to be recovering well from leaf-bare this year, and it worries p_l. app1's calivalier attitude is not helping."
@@ -3468,9 +3468,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
-            "While the mellow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest. It's always a relief to bring in so much after a leaf-bare without any fresh mallow sources.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
+            "While the mallow shrubs are soft in scent and in touch, the plants are engaged in their own vigorous newleaf competition between each other, leaving p_l with tons to harvest and newleaf not only brings mallow but betony to, the herb store wouldn't suffer from another pawful of it. It's always a relief to bring in so much after a leaf-bare without any fresh mallow sources.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
 ],
     "fail_text": [
             "The weedy-looking mallow doesn't seem to be recovering well from leaf-bare this year, and it worries p_l, although the warriors dismiss their concerns about the weeds."
@@ -3494,9 +3494,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp.",
-            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony.",
+            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes and just nearby a betony plant is patiently waiting for its stems to be collected.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
@@ -3520,9 +3520,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
-            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes. app1 carefully fixes the location in their mind, to return to next year.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
+            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes  and just nearby a betony plant is patiently waiting for its stems to be collected. app1 carefully fixes the location in their mind, to return to next year.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -3546,9 +3546,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
-            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes, not even with an entire patrol helping them cart away mallow.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
+            "It's always nice to harvest from a bush so big it will probably never even notice the leaves and flowers p_l takes , not even with an entire patrol helping them cart away mallow and just nearby a betony plant is patiently waiting for its stems to be collected.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
@@ -3572,9 +3572,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp.",
-            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony.",
+            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot, and noticing a whithering betony plant, p_l hurries over to see what can be saved.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
@@ -3598,9 +3598,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
-            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot, and both medicine cat and apprentice are barely visible behind the bushy bundles they carry.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "The soft rose-like scent of the mallow bushes drifts around p_l and app1 as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony. Bees hum through the air, not trying to bother the medicine cats, and p_l points out where they think the hive might be to app1.",
+            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot, and noticing a whithering betony plant, p_l hurries over to see what can be saved. As the head back both medicine cat and apprentice are barely visible behind the bushy bundles they carry",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -3624,9 +3624,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp. The patrol chats, exchanging gossip and news as the smell of cut stems grows around them.",
-            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot, particularly with so many willing paws helping them.",
-            "s_c has a good eye for these things, finding an excellent patch of mallow. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "The soft rose-like scent of the mallow bushes drifts around p_l as they work, snipping off clumps of large fuzzy three-nubbed leaves and the occasional pink flower to be taken back to camp, thankfully another pink flowered plant grows nearby and p_l had just begun to run out of betony. The patrol chats, exchanging gossip and news as the smell of cut stems grows around them.",
+            "With the leaf-fall mallow starting to die back in the next step in its endless perennial cycle, p_l collects all they can. That, it turns out, is a lot, particularly with so many willing paws helping them, and noticing a whithering betony plant, p_l hurries over to see what can be saved.",
+            "s_c has a good eye for these things, finding an excellent patch of mallow with a tempting betony plant growing nearby. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
