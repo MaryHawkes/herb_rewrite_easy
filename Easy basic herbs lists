@@ -5986,9 +5986,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The sharp tang of garlic leads p_l to a growing patch to bring home.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest."
+            "The sharp tang of garlic leads p_l to a growing patch to bring home and not far off are the purple flowers of a mallow clump, just what p_l needed.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much. On the other paw mallow is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6012,9 +6012,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The sharp tang of garlic leads p_l and app1 to a growing patch to bring home.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1."
+            "The sharp tang of garlic leads p_l and app1 to a growing patch to bring home and not far off are the purple flowers of a mallow clump, just what they needed.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them. Thankfully mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1 and to the medicine cats' delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6038,9 +6038,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The sharp tang of garlic leads p_l to a growing patch to bring home. Their helpers settle in with only a little disgust, gathering the strong smelling herb for the Clan's stores.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest."
+            "The sharp tang of garlic leads p_l to a growing patch to bring home. Their helpers settle in with only a little disgust, gathering the strong smelling herb for the Clan's stores and not far off are the purple flowers of a mallow clump, just what p_l needed.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6064,9 +6064,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "This garlic will certainly restock the herb stores... which are close to p_l's nest. Yay...",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest."
+            "The mallow and garlic will certainly restock the herb stores... which are close to p_l's nest. Yay...",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much. On the other paw mallow is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6090,9 +6090,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "This garlic will certainly restock the herb stores... which are close to p_l's nest. Yay... they commiserate with app1, both of them accepting the stink in the medicine cat den.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1."
+            "The mallow and garlic will certainly restock the herb stores... which are close to p_l's nest. Yay... they commiserate with app1, both of them accepting the stink in the medicine cat den.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1 and to the medicine cats' delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6116,9 +6116,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "This garlic will certainly restock the herb stores... which are close to p_l's nest. Yay... the warrior look relieved that they never have to sleep next to the herbs.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest."
+            "The mallow and garlic will certainly restock the herb stores... which are close to p_l's nest. Yay... the warriors look relieved that they never have to sleep next to the herbs.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6142,9 +6142,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l is able to bring a good harvest home.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest."
+            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l is able to bring a good harvest of both the garlic and mallow home.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l will take the smell over the illness, thank you very much. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6168,9 +6168,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l and app1 are able to bring a good harvest home.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1."
+            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l and app1 are able to bring a good harvest of both garlic and mallow home.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. p_l teaches app1 that sometimes they need to prioritise treating their patients above listening to them. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps to harvest with app1 and to the medicine cats' delight a mallow patch was growing not to far off."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -6194,9 +6194,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l and the patrol are able to bring a good harvest home.",
-            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it.",
-            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest."
+            "The garlic won't notice leaf-bare until it actually hits - one of its good traits that make up for its stinkiness. p_l and the patrol are able to bring a good harvest of both garlic and mallow home.",
+            "The leaves and especially the bulbs of wild garlic are the preeminent herb to treat infection, even if using them literally always resulting in either their patient or their loved ones complaining about the smell. The patrol looks a little disgusted, but they're still a great help to p_l for gathering it. Thankfully the mallow that was gathered is a lot more appreciated by members of the clan suffering from belly aches.",
+            "s_c, ever eagle-eyed, spots grass that looks suspiciously tall with oddly thick blades. One sniff confirms it as wild garlic, and the patch has heaps for their patrol to harvest and to the medicine cat's delight a mallow patch was growing not to far off."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
