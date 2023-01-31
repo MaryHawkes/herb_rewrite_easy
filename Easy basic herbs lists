@@ -5518,9 +5518,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
+            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots. And there's ragwort. By StarClan, this gathering patrol will taste awful.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5544,9 +5544,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots. As they work, p_l instructs app1 on tansy dosage - for kits, weakened cats, and elders, it can be dangerously easy for too much tansy to overcome a system and become a poison.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
+            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots. And there's ragwort. By StarClan, this gathering patrol will taste awful. As they work, p_l instructs app1 on tansy dosage - for kits, weakened cats, and elders, it can be dangerously easy for too much tansy to overcome a system and become a poison.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits. The topic is serious enough that app1 even forgets to complain about the additional ragwort they find.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5570,9 +5570,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots. There's enough of the common herb to let the warriors gather sprigs of it to freshen the dens, making the rest of the patrol purr with satisfaction.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
+            "The sharp scent of tansy calls p_l in to harvest its newleaf shoots. And there's ragwort. By StarClan, this gathering patrol will taste awful. There's enough of the common herb to let the warriors gather sprigs of it to freshen the dens, letting the rest of the patrol at least get a small reward for the abuse of their tastebuds.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5596,9 +5596,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The yellow dew drops shining merrily in the distance guide p_l in to the tansy patch, where they take a good harvest.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
+            "The yellow dew drops shining merrily in the distance guide p_l in to the tansy patch, where they take a good harvest. It's just unfortunate they can't talk themselves out of harvesting some ragwort too - this is going to taste very bad.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5622,9 +5622,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The yellow dew drops shining merrily in the distance guide app1 in to the tansy patch, where they take a good harvest. p_l is proud of the work they've put in to learning so many things so quickly.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
+            "The yellow dew drops shining merrily in the distance guide app1 in to the tansy patch, where they take a good harvest. It's just unfortunate they can't talk themselves out of harvesting some ragwort too - this is going to taste very bad. p_l is proud of the work they've put in to learning so many things so quickly though.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits. The topic is serious enough that app1 even forgets to complain about the additional ragwort they find.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5648,9 +5648,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The yellow dew drops shining merrily in the distance guide p_l's patrol in to the tansy patch, where they take a good harvest.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
+            "The yellow dew drops shining merrily in the distance guide p_l's patrol in to the tansy patch, where they take a good harvest. It's just unfortunate they can't talk themselves out of harvesting some ragwort too - this is going to taste very bad.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5674,9 +5674,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
+            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits. Better to have ragwort too, and hope that their tastebuds recover before newleaf.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5700,9 +5700,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits. p_l quizzes app1 on whitecough symptoms and diagnosis as they work.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
+            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits. Better to have ragwort too, and hope that their tastebuds recover before newleaf. p_l quizzes app1 on whitecough symptoms and diagnosis as they work.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. p_l quietly explains to app1 how tansy is also used to ease the passing of mortally wounded cats and to induce losing a litter in queens whose pregnancy is risking their life. This means you don't use it to treat pregnant or nursing queens, or kits. The topic is serious enough that app1 even forgets to complain about the additional ragwort they find.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, and app1 seems to be taking the appropriate amount of care harvesting it."
 ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
@@ -5726,9 +5726,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits. The extra paws help p_l bring back a big harvest for the Clan's stores.",
-            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
-            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
+            "Better to have tansy, so good for all coughs, stocked up in abundance before leaf-bare hits. Better to have ragwort too, and hope that their tastebuds recover before newleaf. The extra paws help p_l bring back a big harvest for the Clan's stores.",
+            "Good for all coughs, for all wounds, for all poisons - but it would be dangerous to asssume tansy has no downsides. In small doses it helps with nearly any aliment, but in large doses it poisons the body, even to the point of causing death. The ragwort trying to outgrow it may stink, but at least that herb isn't dangerous. p_l carefully guides the patrol while gathering it, not that the warriors would be in any danger short of trying to drink the herb.",
+            "Tansy might smell sharp enough to be enjoyed freshening up dens, but it sure tastes... interesting. Definitely not improved by the extra ragwort they find. s_c isn't sure they'll ever get used to it, but at least it's a reminder to be careful around the potentially poisonous herb, helpful when gathering with their Clanmates."
     ],
     "fail_text": [
             "Try as they might, p_l can't quite remember the exact shape of the tansy leaves, and isn't going to harvest from plants they haven't confidently identified."
