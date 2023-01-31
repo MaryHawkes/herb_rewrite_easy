@@ -2375,14 +2375,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "herb", "goldenrod", "marigold", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores.",
+    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores. It sure would be nice to get some marigold, too, if it's matured enough to be harvested.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores.",
-            "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and they collect more goldenrod than they were anticipating.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores."
+            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. Before long, they've finished their work, and it's still light enough that they are able to make quick work of finding some marigold, which they swifly - but carefully - dig up by the roots and add to their herb bundle. That's good enough for today.",
+            "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and they collect more goldenrod than they were anticipating. Their luck seems ever-increasing when their gaze falls upon a patch of bright orange petals - marigold! Sometimes they forgot how plentiful this area is.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores. Talk about good luck."
 ],
     "fail_text": [
             "The goldenrod bushes don't seem to be recovering well from leaf-bare this year, and it worries p_l."
@@ -2401,14 +2401,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_only", "med_cat", "herb", "goldenrod", "marigold", "many_herbs1", "many_herbs2", "big_change", "platonic", "dislike", "comfort", "respect", "trust", "apprentice"],
-    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores with app1.",
+    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod and marigold for the stores with app1.",
     "decline_text": "They have second thoughts leaving their patients behind, especially with their apprentice also out, and decide to go another day.",
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The many stems surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod.",
-            "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and the cats collect more goldenrod than they were anticipating. app1 nearly disappears underneath their light but chaotically bushy bundle.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem, and how each bush will contain both ideal and bad examples, either of which could be harvested."
+            "The many stems surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. app1 and p_l occasionally exchange quiet meows as they work, contact calls reassuring each other that they're both still there amid the towering goldenrod. Their communication contunies when they move their work over to the blossoming marigold, though it is easier to see each other when the flowers aren't quite as tall!",
+            "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and the cats collect more goldenrod and marigold than they were anticipating. app1 nearly disappears underneath their light but chaotically bushy bundle.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores. As they do they instruct app1 in how to judge the quality of each stem or petal, and how each bush will contain both ideal and bad examples, either of which could be harvested."
 ],
     "fail_text": [
             "The goldenrod bushes don't seem to be recovering well from leaf-bare this year, and it worries p_l. app1's calivalier attitude is not helping."
@@ -2427,14 +2427,14 @@
     "biome": "mountainous",
     "season": "newleaf",
     "tags": ["med_cat", "warrior", "herb", "goldenrod", "marigold", "many_herbs1", "many_herbs2", "big_change", "patrol_to_p_l", "platonic", "dislike", "respect"],
-    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod for the stores with a patrol of their Clanmates to assist them.",
+    "intro_text": "Newleaf has brought new life to c_n's territory, and p_l heads out to gather fresh goldenrod and marigold for the stores with a patrol of their Clanmates to assist them.",
     "decline_text": "They're stopped before they leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
-            "It always amazes p_l how quickly the goldenrod bushes sprout back up after leaf-bare, and they collect more goldenrod than they were anticipating, loading up every cat until the patrol until everyone agrees the medicine cat den can't possibly fit more than this.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
+            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. After that, it isn't too hard to find some marigold, and then the process begins once more. The patrol chats as they work, exchanging gossip and news as the smell of cut stems grows around them.",
+            "It always amazes p_l how quickly the goldenrod bushes sprout back up and marigold patches bloom after leaf-bare, and they collect more goldenrod than they were anticipating, loading up every cat until the patrol until everyone agrees the medicine cat den can't possibly fit more than this.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores. They control what is harvested, while their team works to efficiently carry the herb back to camp, deferring to s_c's expertise."
 ],
     "fail_text": [
             "The goldenrod bushes don't seem to be recovering well from leaf-bare this year, and it worries p_l, although the warriors dismiss their concerns about the weeds."
@@ -2453,14 +2453,14 @@
     "biome": "mountainous",
     "season": "greenleaf",
     "tags": ["med_only", "herb", "goldenrod", "marigold", "many_herbs1", "many_herbs2", "med_cat"],
-    "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh goldenrod for the stores.",
+    "intro_text": "Greenleaf is truly the best time of year to be a medicine cat, with the world so full of flowers and green growth. p_l heads out to gather fresh goldenrod for the stores. If lucky is on their side, there might be some marigold they can add to their storages as well.",
     "decline_text": "They have second thoughts leaving their patients behind and decide to go another day.",
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores.",
-            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the plants next to it, bursting with health. The plant won't miss the stems and flowers p_l takes.",
-            "s_c has a good eye for these things, and snips off the best and most lush goldenrod to take back for the Clan's stores."
+            "The many stems of the goldenrod surround p_l as they work, snipping stems and yellow clumps of tiny flowers to bring back to c_n's herb stores. Their delight grows at seeing how much they collected, and it grows stronger still when they are able to carefully pluck some marigold as well, which they had made sure not to get their hopes on finding. Perhaps StarClan is being kind this season.",
+            "The bushes have responded to the sun's call with great enthusiasm, exploding outward in chaotic growth. p_l finds it heartening, seeing the goldenrod fight its own territorial battles against the plants next to it, bursting with health, and the marigold carefully peeking its way out from beneath the thicket next to the goldenrod. It, too, has been blooming, but in more subtle ways, until they take a closer look and see just how many flowers there are under the bush. Neither of these plants will miss the stems and flowers p_l takes.",
+            "s_c has a good eye for these things, and snips off the best and most lush goldenrod and marigold petals to take back for the Clan's stores."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
