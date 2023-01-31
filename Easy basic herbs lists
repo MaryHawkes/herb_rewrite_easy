@@ -3650,9 +3650,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth.",
-            "s_c finds a patch of marigold, harvests its best leaves, and pads home, unaware of how much of their success rests on their talent for herb gathering."
+            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance. And tansy, growing hidden nearby, is betrayed by it's scent.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too.",
+            "s_c finds a patch of marigold, harvests its best leaves, picks up some nice tansy too, and pads home, unaware of how much of their success rests on their talent for herb gathering."
 ],
     "fail_text": [
             "p_l fails to find any marigold, and as the plant dies completely in leaf-bare, can't use any of the spots they know from last year."
@@ -3676,9 +3676,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance. p_l makes sure to point them out to app1, leaf shape is the best way to distinguish marigold before they start flowering.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
-            "s_c finds a patch of marigold, harvests its best leaves, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
+            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance. p_l makes sure to point them out to app1, leaf shape is the best way to distinguish marigold before they start flowering. And tansy, growing hidden nearby, is betrayed by it's scent.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
+            "s_c finds a patch of marigold, harvests its best leaves, picks up some nice tansy too, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
 ],
     "fail_text": [
             "p_l fails to find any marigold, and as the plant dies completely in leaf-bare, can't use any of the spots they know from last year. app1's calivalier attitude is not helping."
@@ -3702,9 +3702,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance. The non-medicine cats wander straight past them, and have to be gently called back by p_l to harvest them.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
-            "s_c finds a patch of marigold, harvests its best leaves, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
+            "The low-growing marigold creeps across the ground, recognizable by its strange leaves that look like they're pretending to be small fern fronds from a distance, and tansy, growing hidden nearby, is betrayed by it's scent. The non-medicine cats wander straight past them, and have to be gently called back by p_l to harvest them.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
+            "s_c finds a patch of marigold, harvests its best leaves, picks up some nice tansy too, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
 ],
     "fail_text": [
             "p_l fails to find any marigold, and as the plant dies completely in leaf-bare, can't use any of the spots they know from last year, although the warriors dismiss their concerns about the weeds."
@@ -3728,9 +3728,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Nearby, a sharp scent indicates tansy must be growing.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
@@ -3754,9 +3754,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Sure enough, app1 has no trouble identifying them.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Nearby, a sharp scent indicates tansy must be growing. Sure enough, app1 has no trouble identifying either of them.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -3780,9 +3780,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Even the warriors understand how to identify marigold in full bloom.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Even the warriors understand how to identify marigold in full bloom. Nearby, a sharp scent indicates tansy must be growing.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
@@ -3806,9 +3806,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here, and if p_l can bring back some tansy too, they'll be well pleased.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful."
@@ -3832,9 +3832,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here, and the medicine cats work with urgency.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here, and the medicine cats work with urgency, finding some extra nearby tansy and stripping it to the ground.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. app1 actually drops some of the leaves they carry on the way back to camp, a little over-ambitious with how much they can carry.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering. app1 watches, trying to soak up their skills."
 ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful, and app1 looks up at them with disappointment."
@@ -3858,9 +3858,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here, and every cat returns to camp carrying some.",
-            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
-            "s_c finds a patch of marigold, harvests its best leaves and flowers, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
+            "The low-growing marigold creeps across the ground, spotted less by its strange leaves that look like they're pretending to be small fern fronds from a distance, and more by their explosively sunset-coloured flowers. Time to collect these while they're still here, and every cat returns to camp carrying something, although some of them seem to have weirdly picked up tansy instead.",
+            "It stops infection, bleeding, and sore joints - why would any medicine cat ever want to risk running out of it? p_l brings back as much marigold as they can stuff into their mouth, and somehow manages to fit in a little tansy too. The warriors helping them don't understand the importance, but obligingly follow p_l's example.",
+            "s_c finds a patch of marigold, harvests its best leaves and flowers, somehow finds some tansy as well, and pads home, unaware of how much of their success rests on their talent for herb gathering. The patrol is also unaware, but it certainly helps their faith in their medicine cat to see them succeed with such competence."
     ],
     "fail_text": [
             "p_l is distracted today, and it effects their work. The patrol is unsuccessful and snappish with each other."
