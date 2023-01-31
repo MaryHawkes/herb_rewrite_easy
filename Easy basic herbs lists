@@ -5752,9 +5752,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but they stop, retrace their steps, and settle down to harvest it.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near their nest.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb."
+            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but they stop, retrace their steps, and settle down to harvest it. p_l is relieved to come across a clump of goldenrod as they pad back to camp they've been able to hit two birds with one stone today.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near their nest.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb. Spotting a small goldenrod plant that looks like it's begining to wilt, they pause to gather the remaining stems to make good use of it."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5778,9 +5778,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but they stop, retrace their steps, and settle down to harvest it, making sure app1 understands how to avoid the mistake p_l almost made.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near the nests they and app1 curl up in at night.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1."
+            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but they stop, retrace their steps, and settle down to harvest it, making sure app1 understands how to avoid the mistake p_l almost made. p_l is relieved to come across a clump of goldenrod as they pad back to camp they've been able to hit two birds with one stone today.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near the nests they and app1 curl up in at night.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1 while they gather a few goldenrod stems from a nearby plant."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5804,9 +5804,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but one of the warriors calls them over. Thanks to its calming, well loved scent, medicine cats aren't the only Clanmembers who can identify this plant.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back so much there's no harm in letting the warriors take a stem each for their nests.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol."
+            "With the drizzle hiding scents, p_l almost walks straight past the thyme plant - but one of the warriors calls them over. Thanks to its calming, well loved scent, medicine cats aren't the only Clanmembers who can identify this plant. p_l is relieved to come across a clump of goldenrod as they pad back to camp they've been able to hit two birds with one stone today.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back more than enough, including a couple of stems of goldenrod, there's no harm in letting the warriors take a stem each for their nests.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol while they gather a few goldenrod stems from a nearby plant."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5830,9 +5830,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near their nest.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb."
+            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant. To p_l's excitement they have just spotted a huge patch of goldenrod and hurry over to collect as much as they can carry.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near their nest.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb. Spotting a small goldenrod plant that looks like it's begining to wilt, they pause to gather the remaining stems to make good use of it."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5856,9 +5856,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant. Both app1 and p_l enjoy the chance for a peaceful afternoon.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near the nests they and app1 curl up in at night.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1."
+            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant. To p_l's excitement they have just spotted a huge patch of goldenrod and hurry over to collect as much as they can carry. Both app1 and p_l enjoy the chance for a peaceful afternoon.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near the nests they and app1 curl up in at night.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1 while they gather a few goldenrod stems from a nearby plant."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5882,9 +5882,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant as the patrol settles in to nip off its leaves.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back so much there's no harm in letting the warriors take a stem each for their nests.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol."
+            "Thankfully they don't have to go far, and being among thyme's calming scent makes gathering it quite pleasant as the patrol settles in to nip off its leaves. To p_l's excitement they have just spotted a huge patch of goldenrod and hurry over to collect as much as they and their entourage can carry.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back more than enough, including a couple of stems of goldenrod, so much there's no harm in letting the warriors take a stem each for their nests.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol while they gather a few goldenrod stems from a nearby plant."
     ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5908,9 +5908,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The urgency drains out of p_l as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near their nest.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb."
+            "The urgency drains out of p_l as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip, as they have collect a staisfying amount for this type of weather alongside a pawful of goldenrod stems.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near their nest.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, mouth crammed full of the herb. Spotting a small goldenrod plant that looks like its begining to shrivel up from the frosts, they pause to gather the remaining stems to make good use of it."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5934,9 +5934,9 @@
     "chance_of_success": 70,
     "exp": 20,
     "success_text": [
-            "The urgency drains out of the medicine cats as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores so that the scent wafts near the nests they and app1 curl up in at night.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1."
+            "The urgency drains out of the medicine cats as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip, as they have collect a staisfying amount for this type of weather alongside a pawful of goldenrod stems.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l makes sure to organise the herb stores ensuring they have a healthy amount of goldenrod to go alongside the thyme, which p_l places so that the scent wafts near the nests they and app1 curl up in at night.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to app1 while they gather a few goldenrod stems from a nearby plant."
 ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
@@ -5960,9 +5960,9 @@
     "chance_of_success": 70,
     "exp": 10,
     "success_text": [
-            "The urgency drains out of the patrol as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip.",
-            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back so much there's no harm in letting the warriors take a stem each for their nests.",
-            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol."
+            "The urgency drains out of the patrol as they sit amongst the calming thyme, and it's not just the herb stores that'll feel the benefit of this gathering trip, as they have collect a staisfying amount for this type of weather alongside a pawful of goldenrod stems.",
+            "It calms racing hearts and minds, bringing cats back from the shock of loss or injury. Thyme is always both helpful and pleasant to have around, and p_l decides that this patrol has brought back more than enough, including a couple of stems of goldenrod, there's no harm in letting the warriors take a stem each for their nests.",
+            "Thyme, thyme, thyme, there's never enough thyme. s_c snorts at their little joke, putting down the herbs they carry to explain it to the rest of the patrol while they gather a few goldenrod stems from a nearby plant."
     ],
     "fail_text": [
             "p_l has no time - and no thyme. They're forced to give up on the search for today."
